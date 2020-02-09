@@ -23,6 +23,20 @@ public class FogJumpFloorTwo {
         }
     }
 
+    private static int jumpTwo(int target) {
+        if (target == 0) {
+            return 0;
+        } else {
+            int ret = 1;
+            int a = 1;
+            for (int i = 2; i < target + 1; i++) {
+                ret = 2 * a;
+                a = ret;
+            }
+            return ret;
+        }
+    }
+
     public static void main(String[] args) {
         System.out.println(jump(2));
     }
