@@ -2,7 +2,7 @@
  * jianzhioffer-day1
  * @author MSI
  */
-public class Main {
+public class Fibonacci {
 
     public static void main(String[] args) {
         System.out.println(Fibonacci(7));
