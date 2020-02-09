@@ -1,3 +1,5 @@
+package day1;
+
 /**
  * jianzhioffer-day1
  * @author MSI
