@@ -93,6 +93,7 @@ local.properties
 *.iml
 *.ipr
 *.iws
+*.xml
 .idea/
  
 ## .gitignore for linux
