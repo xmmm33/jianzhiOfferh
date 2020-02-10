@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5b0e056-ecd8-4e0a-bd75-d7581fce8224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day1/time_0209_2007/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/time_0209_2009/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jianzhiofferh/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Find.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/Find.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FogJumpFloor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/FogJumpFloor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FogJumpFloorTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/FogJumpFloorTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReplaceKongGe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/ReplaceKongGe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/getStackByDuilie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/time_0209_2007/getStackByDuilie.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,92 +12,30 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day1/Fibonacci.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="e#64#65#0" expanded="true" />
-                <element signature="e#112#113#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day1/FogJumpFloor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="e#1032#1033#0" expanded="true" />
-                <element signature="e#1080#1081#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day1/FogJumpFloorTwo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="e#905#906#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day1/Find.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day1/ReplaceKongGe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-252">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="e#479#480#0" expanded="true" />
-                <element signature="e#565#566#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day1/time_0209_2007/getStackByDuilie.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="42" lean-forward="true" selection-start-line="2" selection-end-line="42" />
-              <folding>
-                <element signature="e#203#212#0" expanded="true" />
-                <element signature="e#253#262#0" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
-                <element signature="e#359#360#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/day1/time_0209_2007/MinStack.java">
+        <entry file="file://$PROJECT_DIR$/src/day1/time_0209_2009/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="24" selection-end-column="17" />
+            <state relative-caret-position="292">
+              <caret line="47" column="19" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1548#1549#0" expanded="true" />
-                <element signature="e#1586#1587#0" expanded="true" />
+                <element signature="e#1278#1279#0" expanded="true" />
+                <element signature="e#1348#1349#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -142,6 +73,7 @@
         <option value="$PROJECT_DIR$/src/day1/getStackByDuilie.java" />
         <option value="$PROJECT_DIR$/src/day1/time_0209_2007/Test.java" />
         <option value="$PROJECT_DIR$/src/day1/time_0209_2007/MinStack.java" />
+        <option value="$PROJECT_DIR$/src/day1/time_0209_2009/Solution.java" />
       </list>
     </option>
   </component>
@@ -159,6 +91,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -178,18 +111,10 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="day1" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="jianzhiofferh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jianzhiofferh" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day1" type="462c0819:PsiDirectoryNode" />
-              <item name="time_0209_2007" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,14 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinStack">
-    <configuration name="Find" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.Find" />
-      <module name="jianzhiofferh" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="MinStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day1.time_0209_2007.MinStack" />
       <module name="jianzhiofferh" />
@@ -238,6 +156,19 @@
     <configuration name="ReplaceKongGe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day1.ReplaceKongGe" />
       <module name="jianzhiofferh" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1.time_0209_2009.Solution" />
+      <module name="jianzhiofferh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day1.time_0209_2009.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -263,19 +194,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Find" />
       <item itemvalue="Application.ReplaceKongGe" />
       <item itemvalue="Application.getStackByDuilie" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.MinStack" />
+      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.MinStack" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.ReplaceKongGe" />
         <item itemvalue="Application.getStackByDuilie" />
-        <item itemvalue="Application.Find" />
       </list>
     </recent_temporary>
   </component>
@@ -289,12 +220,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581229227574</updated>
-      <workItem from="1581229228955" duration="17417000" />
+      <workItem from="1581229228955" duration="17662000" />
+      <workItem from="1581303586142" duration="3900000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17417000" />
+    <option name="totallyTimeSpent" value="21562000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -303,7 +235,7 @@
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Learn" order="2" />
-      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.19349681" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.195629" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -338,9 +270,7 @@
         <state relative-caret-position="-2706" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Fog.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Fog.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
@@ -369,14 +299,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day1/Fibonacci.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#64#65#0" expanded="true" />
-            <element signature="e#112#113#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-883">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/time_0209_2007/MinStack.java" />
+    <entry file="file://$PROJECT_DIR$/src/day1/time_0209_2007/getStackByDuilie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/ReplaceKongGe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -384,6 +325,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/FogJumpFloorTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#905#906#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -398,55 +349,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day1/FogJumpFloorTwo.java">
+    <entry file="file://$PROJECT_DIR$/src/day1/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#905#906#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day1/ReplaceKongGe.java">
+    <entry file="file://$PROJECT_DIR$/src/day1/time_0209_2009/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="292">
+          <caret line="47" column="19" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
           <folding>
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-883">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day1/time_0209_2007/getStackByDuilie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="42" lean-forward="true" selection-start-line="2" selection-end-line="42" />
-          <folding>
-            <element signature="e#203#212#0" expanded="true" />
-            <element signature="e#253#262#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day1/time_0209_2007/MinStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="24" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1548#1549#0" expanded="true" />
-            <element signature="e#1586#1587#0" expanded="true" />
+            <element signature="e#1278#1279#0" expanded="true" />
+            <element signature="e#1348#1349#0" expanded="true" />
           </folding>
         </state>
       </provider>
