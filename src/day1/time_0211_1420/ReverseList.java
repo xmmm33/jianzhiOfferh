@@ -42,4 +42,21 @@ public class ReverseList {
         cur.next = pre;
         return  cur;
     }
+
+    public ListNode ReverseListTwo(ListNode listNode) {
+        if (listNode == null || listNode.next == null) {
+            return listNode;
+        }
+        ListNode pre = null;
+        ListNode next = null;
+        // 讲listNode的下一节点指向前一个节点，
+        // 然后前一个节点、当前节点、后一个节点依次往后移动
+        while (listNode != null) {
+            next = listNode.next;
+            listNode.next = pre;
+            pre = listNode;
+            listNode = next;
+        }
+        return pre;
+    }
 }
