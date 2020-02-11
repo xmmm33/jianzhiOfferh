@@ -1,4 +1,4 @@
-package day1;
+package day1.time_0207_2020;
 
 /**
  * 替换空格
