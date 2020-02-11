@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5b0e056-ecd8-4e0a-bd75-d7581fce8224" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/day1/time_0211_1420/Clone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day1/time_0211_1420/MergeTwoOrderedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/time_0211_1420/MergeTwoOrderedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/time_0211_1420/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/time_0211_1420/ReverseList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,15 +29,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day1/time_0209_2009/StackInAndOut.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day1/time_0211_1420/printListFromTailToHead.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -110,7 +102,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day1/time_0211_1420/ReverseList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="383">
@@ -123,11 +115,26 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day1/time_0211_1420/Clone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="63" column="30" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="30" />
+              <folding>
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#337#338#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day1/time_0211_1420/MergeTwoOrderedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="82" column="27" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
+            <state relative-caret-position="143">
+              <caret line="66" column="23" lean-forward="true" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
               <folding>
                 <element signature="e#224#225#0" expanded="true" />
                 <element signature="e#262#263#0" expanded="true" />
@@ -177,8 +184,9 @@
         <option value="$PROJECT_DIR$/src/day1/time_0209_2009/StackInAndOut.java" />
         <option value="$PROJECT_DIR$/src/day1/time_0211_1420/printListFromTailToHead.java" />
         <option value="$PROJECT_DIR$/src/day1/time_0211_1420/printKNode.java" />
-        <option value="$PROJECT_DIR$/src/day1/time_0211_1420/MergeTwoOrderedList.java" />
         <option value="$PROJECT_DIR$/src/day1/time_0211_1420/ReverseList.java" />
+        <option value="$PROJECT_DIR$/src/day1/time_0211_1420/MergeTwoOrderedList.java" />
+        <option value="$PROJECT_DIR$/src/day1/time_0211_1420/Clone.java" />
       </list>
     </option>
   </component>
@@ -251,7 +259,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.printListFromTailToHead">
+  <component name="RunManager" selected="Application.Clone">
+    <configuration name="Clone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1.time_0211_1420.Clone" />
+      <module name="jianzhiofferh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day1.time_0211_1420.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Maopao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day1.time_0209_2009.Maopao" />
       <module name="jianzhiofferh" />
@@ -267,19 +288,6 @@
     </configuration>
     <configuration name="Odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day1.time_0209_2009.Odd" />
-      <module name="jianzhiofferh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day1.time_0209_2009.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.time_0209_2009.Solution" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
@@ -318,19 +326,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Odd" />
       <item itemvalue="Application.Maopao" />
       <item itemvalue="Application.StackInAndOut" />
       <item itemvalue="Application.printListFromTailToHead" />
+      <item itemvalue="Application.Clone" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Clone" />
         <item itemvalue="Application.printListFromTailToHead" />
         <item itemvalue="Application.StackInAndOut" />
         <item itemvalue="Application.Maopao" />
         <item itemvalue="Application.Odd" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -346,12 +354,12 @@
       <updated>1581229227574</updated>
       <workItem from="1581229228955" duration="17662000" />
       <workItem from="1581303586142" duration="13981000" />
-      <workItem from="1581390921331" duration="11935000" />
+      <workItem from="1581390921331" duration="19727000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43578000" />
+    <option name="totallyTimeSpent" value="51370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -360,7 +368,7 @@
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Learn" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.1977612" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.1977612" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -371,8 +379,8 @@
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.329718" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.36876357" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Debug" order="9" visible="true" weight="0.36876357" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
@@ -571,17 +579,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day1/time_0211_1420/MergeTwoOrderedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="82" column="27" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
-          <folding>
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day1/time_0211_1420/ReverseList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="383">
@@ -589,6 +586,30 @@
           <folding>
             <element signature="e#178#179#0" expanded="true" />
             <element signature="e#216#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/time_0211_1420/MergeTwoOrderedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="66" column="23" lean-forward="true" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
+          <folding>
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/time_0211_1420/Clone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="63" column="30" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="30" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
           </folding>
         </state>
       </provider>

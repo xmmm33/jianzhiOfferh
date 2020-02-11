@@ -62,8 +62,11 @@ public class MergeTwoOrderedList {
     }
 
     private ListNode mergeTwo(ListNode list1, ListNode list2) {
+        // 头节点 不做任何计算，用作返回合并链表的头结点
         ListNode newhead = new ListNode(-1);
+        // 新起一个链表头，用作移动
         ListNode cur = newhead;
+        // 比较直观
         while (list1 != null && list2 != null) {
             if (list1.val > list2.val) {
                 cur.next = list2;
