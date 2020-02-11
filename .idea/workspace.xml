@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5b0e056-ecd8-4e0a-bd75-d7581fce8224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day1/time_0211_1420/printKNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/time_0211_1420/ReverseList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -99,7 +99,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day1/time_0211_1420/printKNode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
@@ -108,6 +108,19 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#185#186#0" expanded="true" />
                 <element signature="e#223#224#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day1/time_0211_1420/ReverseList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="508">
+              <caret line="40" column="54" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
+              <folding>
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -154,6 +167,7 @@
         <option value="$PROJECT_DIR$/src/day1/time_0209_2009/StackInAndOut.java" />
         <option value="$PROJECT_DIR$/src/day1/time_0211_1420/printListFromTailToHead.java" />
         <option value="$PROJECT_DIR$/src/day1/time_0211_1420/printKNode.java" />
+        <option value="$PROJECT_DIR$/src/day1/time_0211_1420/ReverseList.java" />
       </list>
     </option>
   </component>
@@ -321,12 +335,12 @@
       <updated>1581229227574</updated>
       <workItem from="1581229228955" duration="17662000" />
       <workItem from="1581303586142" duration="13981000" />
-      <workItem from="1581390921331" duration="4580000" />
+      <workItem from="1581390921331" duration="6618000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36223000" />
+    <option name="totallyTimeSpent" value="38261000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -546,6 +560,17 @@
             <element signature="imports" expanded="true" />
             <element signature="e#185#186#0" expanded="true" />
             <element signature="e#223#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/time_0211_1420/ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="40" column="54" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
           </folding>
         </state>
       </provider>
