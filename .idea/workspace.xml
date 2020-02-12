@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5b0e056-ecd8-4e0a-bd75-d7581fce8224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day1/time_0212_1347/LastRemaining_Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/time_0212_1347/FindFirstCommonNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/time_0212_1347/FindFirstCommonNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/time_0212_1347/EntryNodeOfLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/time_0212_1347/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,11 +42,50 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day1/time_0211_1420/printKNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day1/time_0212_1347/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+              <folding>
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day1/time_0212_1347/LastRemaining_Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="86" column="31" lean-forward="true" selection-start-line="86" selection-start-column="31" selection-end-line="86" selection-end-column="31" />
+            <state relative-caret-position="772">
+              <caret line="98" column="5" lean-forward="true" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day1/time_0212_1347/EntryNodeOfLoop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="732">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,6 +136,8 @@
         <option value="$PROJECT_DIR$/src/day1/time_0211_1420/Clone.java" />
         <option value="$PROJECT_DIR$/src/day1/time_0212_1347/FindFirstCommonNode.java" />
         <option value="$PROJECT_DIR$/src/day1/time_0212_1347/LastRemaining_Solution.java" />
+        <option value="$PROJECT_DIR$/src/day1/time_0212_1347/EntryNodeOfLoop.java" />
+        <option value="$PROJECT_DIR$/src/day1/time_0212_1347/Main.java" />
       </list>
     </option>
   </component>
@@ -168,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Clone">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Clone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day1.time_0211_1420.Clone" />
       <module name="jianzhiofferh" />
@@ -182,12 +224,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maopao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.time_0209_2009.Maopao" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1.time_0212_1347.Main" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.time_0209_2009.*" />
+          <option name="PATTERN" value="day1.time_0212_1347.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,8 +237,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.time_0209_2009.Odd" />
+    <configuration name="Maopao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1.time_0209_2009.Maopao" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
@@ -235,19 +277,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Odd" />
       <item itemvalue="Application.Maopao" />
       <item itemvalue="Application.StackInAndOut" />
       <item itemvalue="Application.printListFromTailToHead" />
       <item itemvalue="Application.Clone" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Clone" />
         <item itemvalue="Application.printListFromTailToHead" />
         <item itemvalue="Application.StackInAndOut" />
         <item itemvalue="Application.Maopao" />
-        <item itemvalue="Application.Odd" />
       </list>
     </recent_temporary>
   </component>
@@ -264,12 +306,12 @@
       <workItem from="1581229228955" duration="17662000" />
       <workItem from="1581303586142" duration="13981000" />
       <workItem from="1581390921331" duration="19939000" />
-      <workItem from="1581486447521" duration="6754000" />
+      <workItem from="1581486447521" duration="8293000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58336000" />
+    <option name="totallyTimeSpent" value="59875000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -278,7 +320,7 @@
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Learn" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.19989339" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.19989339" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -290,7 +332,7 @@
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="bottom" id="Run" order="8" weight="0.329718" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.36876357" />
+      <window_info active="true" anchor="bottom" id="Debug" order="9" visible="true" weight="0.36876357" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
@@ -306,6 +348,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day1/time_0212_1347/Main.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -438,16 +492,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day1/time_0211_1420/printKNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="940">
-          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day1/time_0207_2020/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -525,8 +569,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day1/time_0212_1347/LastRemaining_Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="86" column="31" lean-forward="true" selection-start-line="86" selection-start-column="31" selection-end-line="86" selection-end-column="31" />
+        <state relative-caret-position="772">
+          <caret line="98" column="5" lean-forward="true" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/time_0212_1347/EntryNodeOfLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="732">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/time_0211_1420/printKNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/time_0212_1347/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
