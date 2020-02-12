@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5b0e056-ecd8-4e0a-bd75-d7581fce8224" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/time_0211_1420/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/time_0211_1420/ReverseList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/time_0212_1347/EntryNodeOfLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/time_0212_1347/EntryNodeOfLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/time_0211_1420/printListFromTailToHead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/time_0211_1420/printListFromTailToHead.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,81 +30,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/day1/time_0211_1420/printListFromTailToHead.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="74" column="5" lean-forward="true" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+            <state relative-caret-position="280">
+              <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day1/time_0212_1347/FindFirstCommonNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-              <folding>
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day1/time_0211_1420/printKNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day1/time_0212_1347/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-              <folding>
-                <element signature="e#128#129#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day1/time_0212_1347/LastRemaining_Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="772">
-              <caret line="98" column="5" lean-forward="true" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day1/time_0212_1347/EntryNodeOfLoop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1400">
-              <caret line="70" column="88" lean-forward="true" selection-start-line="70" selection-start-column="88" selection-end-line="70" selection-end-column="88" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#224#225#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day1/time_0211_1420/ReverseList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="78" column="25" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -156,9 +84,10 @@
         <option value="$PROJECT_DIR$/src/day1/time_0212_1347/FindFirstCommonNode.java" />
         <option value="$PROJECT_DIR$/src/day1/time_0212_1347/LastRemaining_Solution.java" />
         <option value="$PROJECT_DIR$/src/day1/time_0212_1347/Main.java" />
-        <option value="$PROJECT_DIR$/src/day1/time_0211_1420/printListFromTailToHead.java" />
         <option value="$PROJECT_DIR$/src/day1/time_0211_1420/ReverseList.java" />
         <option value="$PROJECT_DIR$/src/day1/time_0212_1347/EntryNodeOfLoop.java" />
+        <option value="$PROJECT_DIR$/src/day1/time_0211_1420/NumberOf1.java" />
+        <option value="$PROJECT_DIR$/src/day1/time_0211_1420/printListFromTailToHead.java" />
       </list>
     </option>
   </component>
@@ -327,12 +256,12 @@
       <workItem from="1581229228955" duration="17662000" />
       <workItem from="1581303586142" duration="13981000" />
       <workItem from="1581390921331" duration="19939000" />
-      <workItem from="1581486447521" duration="12557000" />
+      <workItem from="1581486447521" duration="12812000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64139000" />
+    <option name="totallyTimeSpent" value="64394000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -620,10 +549,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/time_0211_1420/NumberOf1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day1/time_0211_1420/printListFromTailToHead.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="74" column="5" lean-forward="true" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+        <state relative-caret-position="280">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

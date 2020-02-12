@@ -22,6 +22,7 @@ public class printListFromTailToHead {
     /**
      * 带头结点的单链表的创建
      * 头插法
+     * 使得head始终指向头结点
      * @param array
      * @return
      */
@@ -30,14 +31,19 @@ public class printListFromTailToHead {
         ListNode header = head;
         for (int i = 0; i <array.length ; i++) {
             ListNode temp = new ListNode(array[i]);
-            temp.next = head.next;
-            head.next = temp;
+            if (head == null) {
+                head = temp;
+            }else {
+                temp.next = head;
+                head = temp;
+            }
         }
         return header;
     }
 
     /**
      * 尾插法构建单链表
+     * 使得storage始终指向最后一个节点
      * @param array
      * @return
      */
