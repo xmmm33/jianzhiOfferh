@@ -2,6 +2,7 @@ package day1.time_0212_1347;
 
 /**
  * 寻找两个链表的第一个公共节点
+ * 从这个节点开始，后面的都是一样的。
  */
 public class FindFirstCommonNode {
 
