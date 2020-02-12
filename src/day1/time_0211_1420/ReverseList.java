@@ -59,4 +59,23 @@ public class ReverseList {
         }
         return pre;
     }
+
+    /**
+     * 使用头插法来逆序一个单链表
+     * @param listNode
+     * @return
+     */
+    public ListNode RevserListThree(ListNode listNode) {
+        ListNode head = listNode;
+        if (listNode == null) {
+            return null;
+        }
+        while (listNode != null) {
+            ListNode next = head.next;
+            head.next = head.next;
+            head.next = head;
+            head = next;
+        }
+        return head.next;
+    }
 }
