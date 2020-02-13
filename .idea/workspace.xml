@@ -191,7 +191,7 @@
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.time_0212_1347.*" />
+          <option name="PATTERN" value="day1.time_0213_1322.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
