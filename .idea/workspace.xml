@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5b0e056-ecd8-4e0a-bd75-d7581fce8224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day1/time_0213_1322/NumberOf1Between1AndN_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/time_0213_1322/GetUglyNumber_Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,11 +57,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day1/time_0213_1322/NumberOf1Between1AndN_Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="36" selection-end-column="21" />
+            <state relative-caret-position="380">
+              <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day1/time_0213_1322/GetUglyNumber_Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-28">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -120,6 +129,7 @@
         <option value="$PROJECT_DIR$/src/day1/time_0213_1322/Add.java" />
         <option value="$PROJECT_DIR$/src/day1/time_0213_1322/MoreThanHalfNum_Solution.java" />
         <option value="$PROJECT_DIR$/src/day1/time_0213_1322/NumberOf1Between1AndN_Solution.java" />
+        <option value="$PROJECT_DIR$/src/day1/time_0213_1322/GetUglyNumber_Solution.java" />
       </list>
     </option>
   </component>
@@ -193,7 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.printListFromTailToHead">
+  <component name="RunManager" selected="Application.GetUglyNumber_Solution">
     <configuration name="Clone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day1.time_0211_1420.Clone" />
       <module name="jianzhiofferh" />
@@ -207,8 +217,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.time_0212_1347.Main" />
+    <configuration name="GetUglyNumber_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1.time_0213_1322.GetUglyNumber_Solution" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
@@ -220,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maopao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.time_0209_2009.Maopao" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1.time_0212_1347.Main" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.time_0209_2009.*" />
+          <option name="PATTERN" value="day1.time_0213_1322.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,19 +270,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Maopao" />
       <item itemvalue="Application.StackInAndOut" />
       <item itemvalue="Application.printListFromTailToHead" />
       <item itemvalue="Application.Clone" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.GetUglyNumber_Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetUglyNumber_Solution" />
         <item itemvalue="Application.printListFromTailToHead" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Clone" />
         <item itemvalue="Application.StackInAndOut" />
-        <item itemvalue="Application.Maopao" />
       </list>
     </recent_temporary>
   </component>
@@ -290,12 +300,12 @@
       <workItem from="1581303586142" duration="13981000" />
       <workItem from="1581390921331" duration="19939000" />
       <workItem from="1581486447521" duration="13713000" />
-      <workItem from="1581570455720" duration="4569000" />
+      <workItem from="1581570455720" duration="7920000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69864000" />
+    <option name="totallyTimeSpent" value="73215000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -304,7 +314,7 @@
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Learn" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.20202559" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.20202559" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -316,7 +326,7 @@
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="bottom" id="Run" order="8" weight="0.329718" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.36876357" />
+      <window_info active="true" anchor="bottom" id="Debug" order="9" visible="true" weight="0.36876357" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
@@ -620,8 +630,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day1/time_0213_1322/NumberOf1Between1AndN_Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="36" selection-end-column="21" />
+        <state relative-caret-position="380">
+          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/time_0213_1322/GetUglyNumber_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
         </state>
       </provider>
     </entry>
