@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5b0e056-ecd8-4e0a-bd75-d7581fce8224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day1/time_0213_1322/MoreThanHalfNum_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/time_0213_1322/NumberOf1Between1AndN_Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day1/time_0213_1322/MoreThanHalfNum_Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="572">
@@ -53,6 +53,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day1/time_0213_1322/NumberOf1Between1AndN_Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="36" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -110,6 +119,7 @@
         <option value="$PROJECT_DIR$/src/day1/time_0213_1322/NumberOf1.java" />
         <option value="$PROJECT_DIR$/src/day1/time_0213_1322/Add.java" />
         <option value="$PROJECT_DIR$/src/day1/time_0213_1322/MoreThanHalfNum_Solution.java" />
+        <option value="$PROJECT_DIR$/src/day1/time_0213_1322/NumberOf1Between1AndN_Solution.java" />
       </list>
     </option>
   </component>
@@ -280,12 +290,12 @@
       <workItem from="1581303586142" duration="13981000" />
       <workItem from="1581390921331" duration="19939000" />
       <workItem from="1581486447521" duration="13713000" />
-      <workItem from="1581570455720" duration="3831000" />
+      <workItem from="1581570455720" duration="4569000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69126000" />
+    <option name="totallyTimeSpent" value="69864000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -605,6 +615,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/time_0213_1322/NumberOf1Between1AndN_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="36" selection-end-column="21" />
         </state>
       </provider>
     </entry>
