@@ -27,7 +27,9 @@ public class ReverseList {
         if (head.next == null) {
             return head;
         }
-        ListNode pre = head,cur = head.next,next = head.next.next;
+        ListNode pre = head,
+                 cur = head.next,
+                 next = head.next.next;
         // 1. 将头换成尾，因为尾部的next为null，所以pre.next=null
         pre.next = null;
         // 然后从第二个node开始，就是cur开始，循环将cur.next 指向前一个即pre
