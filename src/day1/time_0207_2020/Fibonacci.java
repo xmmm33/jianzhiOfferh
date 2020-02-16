@@ -7,7 +7,7 @@ package day1.time_0207_2020;
 public class Fibonacci {
 
     public static void main(String[] args) {
-        System.out.println(Fibtwo(100));
+        System.out.println(Fibtwo(10));
     }
 
     /**
