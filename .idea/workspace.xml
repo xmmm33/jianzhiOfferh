@@ -4,10 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66f9eab9-85ba-487f-b063-e9cb01d5efa0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day2/time_0224_1854/Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="66f9eab9-85ba-487f-b063-e9cb01d5efa0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,11 +77,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day2/time_0224_1854/HouxuTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="489">
               <caret line="100" column="30" selection-start-line="100" selection-start-column="30" selection-end-line="100" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day2/time_0224_1854/reConstructBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -146,7 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/impl/ErrorInfoServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/impl/HandMadeFenchengServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/impl/HtmlConfigServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/impl/HzfcFlowDelRecordServiceImpl.java" />
@@ -197,6 +202,7 @@
         <option value="$PROJECT_DIR$/src/day2/time_0224_1854/HouxuTest.java" />
         <option value="$PROJECT_DIR$/src/day2/time_0224_1854/ZhongxuTest.java" />
         <option value="$PROJECT_DIR$/src/day2/time_0224_1854/XianxuTest.java" />
+        <option value="$PROJECT_DIR$/src/day2/time_0224_1854/reConstructBinaryTree.java" />
       </list>
     </option>
   </component>
@@ -331,7 +337,7 @@
     </option>
     <option name="contentProportion" value="0.060064934" />
   </component>
-  <component name="RunManager" selected="Application.HouxuTest">
+  <component name="RunManager" selected="Application.reConstructBinaryTree">
     <configuration name="HouxuTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day2.time_0224_1854.HouxuTest" />
       <module name="jianzhiofferh" />
@@ -384,17 +390,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebConsoleApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="webConsole" />
+    <configuration name="reConstructBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.time_0224_1854.reConstructBinaryTree" />
+      <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.unnet.hzfc.webconsole.*" />
+          <option name="PATTERN" value="day2.time_0224_1854.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.unnet.hzfc.webconsole" />
-      <option name="MAIN_CLASS_NAME" value="com.unnet.hzfc.webconsole.WebConsoleApplicationTests" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -494,7 +498,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.WebConsoleApplicationTests" />
       <item itemvalue="Maven.webconsole [mvn,install...]" />
       <item itemvalue="Maven.mybatis-gen" />
       <item itemvalue="Spring Boot.WebConsoleApplication (3)" />
@@ -502,14 +505,15 @@
       <item itemvalue="Application.XianxuTest" />
       <item itemvalue="Application.ZhongxuTest" />
       <item itemvalue="Application.HouxuTest" />
+      <item itemvalue="Application.reConstructBinaryTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reConstructBinaryTree" />
         <item itemvalue="Application.HouxuTest" />
         <item itemvalue="Application.ZhongxuTest" />
         <item itemvalue="Application.XianxuTest" />
         <item itemvalue="Application.Tree" />
-        <item itemvalue="JUnit.WebConsoleApplicationTests" />
       </list>
     </recent_temporary>
   </component>
@@ -652,7 +656,7 @@
       <workItem from="1582440556438" duration="1646000" />
       <workItem from="1582525118933" duration="3538000" />
       <workItem from="1582531966350" duration="2678000" />
-      <workItem from="1582543081413" duration="5440000" />
+      <workItem from="1582543081413" duration="8380000" />
     </task>
     <servers />
   </component>
@@ -689,7 +693,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1035678000" />
+    <option name="totallyTimeSpent" value="1038618000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -715,8 +719,8 @@
       <window_info id="BPMN Editor" order="8" weight="0.32995737" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.36582693" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39868566" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.36582693" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39868566" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
@@ -808,6 +812,12 @@
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day2/time_0224_1854/reConstructBinaryTree.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -877,13 +887,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../Maven/repositorytest/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/Logger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="355" column="16" selection-start-line="355" selection-start-column="16" selection-end-line="355" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/Executors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
@@ -1123,6 +1126,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="489">
           <caret line="100" column="30" selection-start-line="100" selection-start-column="30" selection-end-line="100" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/time_0224_1854/reConstructBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
         </state>
       </provider>
     </entry>
