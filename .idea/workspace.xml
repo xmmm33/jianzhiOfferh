@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66f9eab9-85ba-487f-b063-e9cb01d5efa0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/day2/time_0226_0945/VerifySquenceOfBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/time_0226_0945/VerifySquenceOfBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/time_0226_0945/DESC.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/time_0226_0945/DESC.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,15 +52,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day2/time_0226_0945/VerifySquenceOfBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="409">
+              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day2/time_0226_0945/FindValuePath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="63" column="44" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
               <folding>
-                <element signature="e#1006#1007#0" expanded="true" />
-                <element signature="e#1039#1040#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#535#555#0" expanded="true" />
+                <element signature="e#1482#1483#0" expanded="true" />
+                <element signature="e#1547#1548#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day2/time_0226_0945/DESC.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="100">
+                <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -75,8 +98,8 @@
         <option value="BpmnFile" />
         <option value="Enum" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -123,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/impl/SysMenuServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/impl/TaskRoleServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/impl/TaskWorkFlowServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/impl/UserServiceImpl.java" />
@@ -166,7 +188,6 @@
         <option value="$PROJECT_DIR$/src/day2/time_0224_1854/reConstructBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/day2/time_0226_0945/PrintFromTopToBottom.java" />
         <option value="$PROJECT_DIR$/src/day2/time_0226_0945/desc.md.fxml" />
-        <option value="$PROJECT_DIR$/src/day2/time_0226_0945/DESC.md" />
         <option value="$PROJECT_DIR$/src/day2/time_0224_1854/DESC.md" />
         <option value="$PROJECT_DIR$/src/day1/time_0213_1322/DESC.md" />
         <option value="$PROJECT_DIR$/src/day1/time_0212_1347/DESC.md" />
@@ -174,6 +195,8 @@
         <option value="$PROJECT_DIR$/src/day1/time_0211_1420/ReverseList.java" />
         <option value="$PROJECT_DIR$/src/day1/time_0211_1420/DESC.md" />
         <option value="$PROJECT_DIR$/src/day2/time_0226_0945/VerifySquenceOfBST.java" />
+        <option value="$PROJECT_DIR$/src/day2/time_0226_0945/DESC.md" />
+        <option value="$PROJECT_DIR$/src/day2/time_0226_0945/FindValuePath.java" />
       </list>
     </option>
   </component>
@@ -314,7 +337,20 @@
     </option>
     <option name="contentProportion" value="0.060064934" />
   </component>
-  <component name="RunManager" selected="Application.VerifySquenceOfBST">
+  <component name="RunManager" selected="Application.FindValuePath">
+    <configuration name="FindValuePath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.time_0226_0945.FindValuePath" />
+      <module name="jianzhiofferh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.time_0226_0945.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HouxuTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day2.time_0224_1854.HouxuTest" />
       <module name="jianzhiofferh" />
@@ -334,19 +370,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day2.time_0226_0945.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="XianxuTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.time_0224_1854.XianxuTest" />
-      <module name="jianzhiofferh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day2.time_0224_1854.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -475,7 +498,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.XianxuTest" />
       <item itemvalue="Application.ZhongxuTest" />
       <item itemvalue="Application.HouxuTest" />
       <item itemvalue="Application.reConstructBinaryTree" />
@@ -483,14 +505,15 @@
       <item itemvalue="Maven.mybatis-gen" />
       <item itemvalue="Spring Boot.WebConsoleApplication (3)" />
       <item itemvalue="Application.VerifySquenceOfBST" />
+      <item itemvalue="Application.FindValuePath" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindValuePath" />
         <item itemvalue="Application.VerifySquenceOfBST" />
         <item itemvalue="Application.reConstructBinaryTree" />
         <item itemvalue="Application.HouxuTest" />
         <item itemvalue="Application.ZhongxuTest" />
-        <item itemvalue="Application.XianxuTest" />
       </list>
     </recent_temporary>
   </component>
@@ -635,7 +658,7 @@
       <workItem from="1582531966350" duration="2678000" />
       <workItem from="1582543081413" duration="8491000" />
       <workItem from="1582607717550" duration="611000" />
-      <workItem from="1582680870065" duration="10429000" />
+      <workItem from="1582680870065" duration="15420000" />
     </task>
     <servers />
   </component>
@@ -672,7 +695,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1049769000" />
+    <option name="totallyTimeSpent" value="1054760000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -792,16 +815,10 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day2/time_0226_0945/VerifySquenceOfBST.java</url>
-          <line>29</line>
+          <url>file://$PROJECT_DIR$/src/day2/time_0226_0945/FindValuePath.java</url>
+          <line>55</line>
           <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day2/time_0226_0945/VerifySquenceOfBST.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="12" />
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -872,27 +889,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../Maven/repositorytest/org/springframework/spring-webmvc/5.1.3.RELEASE/spring-webmvc-5.1.3.RELEASE-sources.jar!/org/springframework/web/servlet/support/AbstractDispatcherServletInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../Maven/repositorytest/org/apache/tomcat/embed/tomcat-embed-core/9.0.31/tomcat-embed-core-9.0.31.jar!/org/apache/catalina/startup/Tomcat.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../Maven/repositorytest/org/apache/tomcat/embed/tomcat-embed-core/9.0.31/tomcat-embed-core-9.0.31-sources.jar!/org/apache/catalina/loader/WebappClassLoaderBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="1519" column="16" selection-start-line="1519" selection-start-column="16" selection-end-line="1519" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../Maven/repositorytest/org/apache/tomcat/embed/tomcat-embed-core/9.0.31/tomcat-embed-core-9.0.31-sources.jar!/org/apache/catalina/Lifecycle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
@@ -1072,28 +1068,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/time_0226_0945/PrintFromTopToBottom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="699">
-          <caret line="68" column="13" lean-forward="true" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/time_0226_0945/DESC.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="20">
-            <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day2/time_0224_1854/DESC.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1204,13 +1178,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="3282" column="24" selection-start-line="3282" selection-start-column="24" selection-end-line="3282" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day2/time_0226_0945/VerifySquenceOfBST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="409">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/time_0226_0945/PrintFromTopToBottom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1179">
+          <caret line="68" column="13" lean-forward="true" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
           <folding>
-            <element signature="e#1006#1007#0" expanded="true" />
-            <element signature="e#1039#1040#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="176" column="11" selection-start-line="176" selection-start-column="11" selection-end-line="176" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/time_0226_0945/DESC.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="100">
+            <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/time_0226_0945/FindValuePath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="63" column="44" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#535#555#0" expanded="true" />
+            <element signature="e#1482#1483#0" expanded="true" />
+            <element signature="e#1547#1548#0" expanded="true" />
           </folding>
         </state>
       </provider>
