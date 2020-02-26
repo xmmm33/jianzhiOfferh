@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66f9eab9-85ba-487f-b063-e9cb01d5efa0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/day2/time_0226_0945/DESC.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/time_0226_0945/DESC.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/time_0226_0945/VerifySquenceOfBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/time_0226_0945/VerifySquenceOfBST.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,20 +52,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/day2/time_0226_0945/VerifySquenceOfBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            <state relative-caret-position="600">
+              <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day2/time_0226_0945/FindValuePath.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="63" column="44" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
+            <state relative-caret-position="529">
+              <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#535#555#0" expanded="true" />
@@ -81,7 +81,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="100">
-                <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+                <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
               </first_editor>
               <second_editor />
             </state>
@@ -194,9 +194,9 @@
         <option value="$PROJECT_DIR$/src/day1/time_0212_1347/LastRemaining_Solution.java" />
         <option value="$PROJECT_DIR$/src/day1/time_0211_1420/ReverseList.java" />
         <option value="$PROJECT_DIR$/src/day1/time_0211_1420/DESC.md" />
-        <option value="$PROJECT_DIR$/src/day2/time_0226_0945/VerifySquenceOfBST.java" />
-        <option value="$PROJECT_DIR$/src/day2/time_0226_0945/DESC.md" />
         <option value="$PROJECT_DIR$/src/day2/time_0226_0945/FindValuePath.java" />
+        <option value="$PROJECT_DIR$/src/day2/time_0226_0945/DESC.md" />
+        <option value="$PROJECT_DIR$/src/day2/time_0226_0945/VerifySquenceOfBST.java" />
       </list>
     </option>
   </component>
@@ -658,7 +658,7 @@
       <workItem from="1582531966350" duration="2678000" />
       <workItem from="1582543081413" duration="8491000" />
       <workItem from="1582607717550" duration="611000" />
-      <workItem from="1582680870065" duration="15420000" />
+      <workItem from="1582680870065" duration="15826000" />
     </task>
     <servers />
   </component>
@@ -695,7 +695,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1054760000" />
+    <option name="totallyTimeSpent" value="1055166000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -722,7 +722,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.36582693" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39430448" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39430448" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
@@ -813,12 +813,6 @@
           <line>109</line>
           <properties />
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day2/time_0226_0945/FindValuePath.java</url>
-          <line>55</line>
-          <properties />
-          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1185,13 +1179,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/time_0226_0945/VerifySquenceOfBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day2/time_0226_0945/PrintFromTopToBottom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1179">
@@ -1209,26 +1196,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/time_0226_0945/DESC.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="100">
-            <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day2/time_0226_0945/FindValuePath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="63" column="44" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
+        <state relative-caret-position="529">
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#535#555#0" expanded="true" />
             <element signature="e#1482#1483#0" expanded="true" />
             <element signature="e#1547#1548#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/time_0226_0945/DESC.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="100">
+            <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/time_0226_0945/VerifySquenceOfBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
         </state>
       </provider>
     </entry>
