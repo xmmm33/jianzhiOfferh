@@ -41,10 +41,7 @@ public class LastRemaining_Solution {
      * @return
      */
     public int LastRemaining_SolutionTwo(int n, int m) {
-        if (n < 1) {
-            return -1;
-        }
-        if (m < 1) {
+        if (n < 1 || m < 1) {
             return -1;
         }
         if (n == 1) {

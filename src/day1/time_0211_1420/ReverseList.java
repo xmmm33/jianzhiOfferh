@@ -74,7 +74,6 @@ public class ReverseList {
         }
         while (listNode != null) {
             ListNode next = head.next;
-            head.next = head.next;
             head.next = head;
             head = next;
         }
