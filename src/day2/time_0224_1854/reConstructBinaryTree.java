@@ -24,8 +24,10 @@ public class reConstructBinaryTree {
             if (pre[0] == mid[i]) {
                 // Arrays.copyOfRange(pre, 1, i + 1) 取出pre后面多少个数字，跟i有关
                 // copyOfRange 函数，左闭右开
-                root.left = reConstructBinaryTree(Arrays.copyOfRange(pre, 1, i + 1), Arrays.copyOfRange(mid, 0, i));
-                root.right = reConstructBinaryTree(Arrays.copyOfRange(pre, i + 1, pre.length), Arrays.copyOfRange(mid, i+1, mid.length));
+                root.left = reConstructBinaryTree(Arrays.copyOfRange(pre, 1, i + 1)
+                                                    , Arrays.copyOfRange(mid, 0, i));
+                root.right = reConstructBinaryTree(Arrays.copyOfRange(pre, i + 1, pre.length)
+                                                    , Arrays.copyOfRange(mid, i+1, mid.length));
                 break;
             }
         }
