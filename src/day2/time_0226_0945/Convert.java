@@ -37,6 +37,7 @@ public class Convert {
         }else {
             head = pRootOfTree;
         }
+
         // 把根节点的左指针 指向左子树的最右节点；然后把最右节点的左孩子指向当前节点
         pRootOfTree.left = left;
         if (left != null) {
