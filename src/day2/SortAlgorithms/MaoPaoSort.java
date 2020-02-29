@@ -25,7 +25,9 @@ public class MaoPaoSort {
      * @param arr
      */
     public static void MaoPao(int[] arr) {
+        // 一共需要对n-1个元素进行排序
         for (int i = 0; i < arr.length-1; i++) {
+            // 每一趟排序需要比较的次数
             for (int j = 0; j < arr.length - i -1 ; j++) {
                 if (arr[j] > arr[j+1]) {
                     int temp = arr[j];

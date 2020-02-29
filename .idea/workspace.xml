@@ -4,7 +4,10 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66f9eab9-85ba-487f-b063-e9cb01d5efa0" name="Default Changelist" comment="" />
+    <list default="true" id="66f9eab9-85ba-487f-b063-e9cb01d5efa0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/day2/SortAlgorithms/InsetSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/SortAlgorithms/InsetSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/SortAlgorithms/MaoPaoSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/SortAlgorithms/MaoPaoSort.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,20 +53,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/day2/SortAlgorithms/InsetSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="380">
+              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day2/SortAlgorithms/MaoPaoSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+            <state relative-caret-position="160">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -175,8 +178,8 @@
         <option value="$PROJECT_DIR$/src/day2/time_0229_1225/Serialize.java" />
         <option value="$PROJECT_DIR$/src/day2/time_0229_1225/DESC.md" />
         <option value="$PROJECT_DIR$/src/day2/time_0229_1225/FindGreatestSumOfSubArray.java" />
-        <option value="$PROJECT_DIR$/src/day2/SortAlgorithms/InsetSort.java" />
         <option value="$PROJECT_DIR$/src/day2/SortAlgorithms/MaoPaoSort.java" />
+        <option value="$PROJECT_DIR$/src/day2/SortAlgorithms/InsetSort.java" />
       </list>
     </option>
   </component>
@@ -311,7 +314,7 @@
     </option>
     <option name="contentProportion" value="0.060064934" />
   </component>
-  <component name="RunManager" selected="Application.MaoPaoSort">
+  <component name="RunManager" selected="Application.InsetSort">
     <configuration name="DuiSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day2.time_0227_1112.DuiSortTest" />
       <module name="jianzhiofferh" />
@@ -338,6 +341,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InsetSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.SortAlgorithms.InsetSort" />
+      <module name="jianzhiofferh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.SortAlgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MaoPaoSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day2.SortAlgorithms.MaoPaoSort" />
       <module name="jianzhiofferh" />
@@ -357,19 +373,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day2.time_0229_1225.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.time_0226_0945.Test" />
-      <module name="jianzhiofferh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day2.time_0226_0945.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -472,7 +475,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.GetLeastNumbers_Solution" />
       <item itemvalue="Application.DuiSortTest" />
       <item itemvalue="Maven.webconsole [mvn,install...]" />
@@ -480,14 +482,15 @@
       <item itemvalue="Spring Boot.WebConsoleApplication (3)" />
       <item itemvalue="Application.Serialize" />
       <item itemvalue="Application.MaoPaoSort" />
+      <item itemvalue="Application.InsetSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsetSort" />
         <item itemvalue="Application.MaoPaoSort" />
         <item itemvalue="Application.Serialize" />
         <item itemvalue="Application.DuiSortTest" />
         <item itemvalue="Application.GetLeastNumbers_Solution" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -638,7 +641,7 @@
       <workItem from="1582862448601" duration="4917000" />
       <workItem from="1582888610342" duration="637000" />
       <workItem from="1582901066305" duration="308000" />
-      <workItem from="1582950209207" duration="14506000" />
+      <workItem from="1582950209207" duration="15112000" />
     </task>
     <servers />
   </component>
@@ -675,7 +678,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1100212000" />
+    <option name="totallyTimeSpent" value="1100818000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -690,7 +693,7 @@
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" weight="0.23304157" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.23304157" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -702,7 +705,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.36473164" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.36692223" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.36692223" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
@@ -1284,17 +1287,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/SortAlgorithms/InsetSort.java">
+    <entry file="file://$PROJECT_DIR$/src/day2/SortAlgorithms/MaoPaoSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/SortAlgorithms/MaoPaoSort.java">
+    <entry file="file://$PROJECT_DIR$/src/day2/SortAlgorithms/InsetSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        <state relative-caret-position="380">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
         </state>
       </provider>
     </entry>
