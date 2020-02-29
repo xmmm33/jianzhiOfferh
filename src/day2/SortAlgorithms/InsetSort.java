@@ -2,11 +2,15 @@ package day2.SortAlgorithms;
 
 /**
  * 插入排序
+ * 从第二个元素开始比较
+ * 比较跟前一个元素的大小，
+ * 插入排序保持前半部分有序，后半部分无序
  */
 public class InsetSort {
 
     public static void main(String[] agrs) {
         int[] a = new int[]{54, 21, 6, 4, 56, 1, 13, 45, 131, 5};
+        Test.insertSort(a);
         insertSort(a);
     }
 

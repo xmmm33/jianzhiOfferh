@@ -2,12 +2,16 @@ package day2.SortAlgorithms;
 
 /**
  * 冒泡排序
- *
+ * 每次排序把最大的冒泡到最后
+ * 冒泡排序第一层循环为需要对多少个数据进行排序
+ *       第二层循环是每次把最大的冒泡到最后需要多少次
+ * 数组的后半部分总是有序，前半部分无序
  */
 public class MaoPaoSort {
 
     public static void main(String[] agrs) {
         int[] a = new int[]{54, 21, 6, 4, 56, 1, 13, 45, 131, 5};
+        Test.maopao(a);
         MaoPao(a);
     }
 
