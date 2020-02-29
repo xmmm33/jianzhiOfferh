@@ -56,8 +56,8 @@
         <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/DESC.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+              <first_editor relative-caret-position="140">
+                <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -65,10 +65,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/FindGreatestSumOfSubArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="40" column="19" lean-forward="true" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/Serialize.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-212">
-              <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+            <state relative-caret-position="-72">
+              <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -198,7 +207,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/flowinfoservice/impl/CityConfigRuleAlterServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/flowinfoservice/impl/CityFlowInfoServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/flowinfoservice/impl/LzEnterpriseTerminalServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/flowinfoservice/impl/SgsSpSetupServiceImpl.java" />
@@ -247,8 +255,9 @@
         <option value="$PROJECT_DIR$/src/day2/time_0229_1225/Print.java" />
         <option value="$PROJECT_DIR$/src/day2/time_0229_1225/PrintManyLines.java" />
         <option value="$PROJECT_DIR$/src/day2/time_0229_1225/KthNode.java" />
-        <option value="$PROJECT_DIR$/src/day2/time_0229_1225/DESC.md" />
         <option value="$PROJECT_DIR$/src/day2/time_0229_1225/Serialize.java" />
+        <option value="$PROJECT_DIR$/src/day2/time_0229_1225/DESC.md" />
+        <option value="$PROJECT_DIR$/src/day2/time_0229_1225/FindGreatestSumOfSubArray.java" />
       </list>
     </option>
   </component>
@@ -710,7 +719,7 @@
       <workItem from="1582862448601" duration="4917000" />
       <workItem from="1582888610342" duration="637000" />
       <workItem from="1582901066305" duration="308000" />
-      <workItem from="1582950209207" duration="10355000" />
+      <workItem from="1582950209207" duration="12108000" />
     </task>
     <servers />
   </component>
@@ -747,7 +756,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1096061000" />
+    <option name="totallyTimeSpent" value="1097814000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -760,6 +769,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" weight="0.23304157" />
       <window_info id="Designer" order="1" />
@@ -772,7 +782,7 @@
       <window_info id="BPMN Editor" order="8" weight="0.32995737" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.36473164" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.36473164" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36692223" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -934,13 +944,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/day2/time_0224_1854/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2160">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day2/time_0226_0945/MirrorTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -1340,20 +1343,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/Serialize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/DESC.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/Serialize.java">
+    <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/FindGreatestSumOfSubArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-212">
-          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+        <state relative-caret-position="645">
+          <caret line="40" column="19" lean-forward="true" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
         </state>
       </provider>
     </entry>
