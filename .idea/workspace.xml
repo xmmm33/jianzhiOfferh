@@ -56,8 +56,8 @@
         <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/DESC.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="100">
-                <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+              <first_editor relative-caret-position="120">
+                <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -65,10 +65,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/Serialize.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-212">
+              <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/KthNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="360">
+              <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -184,7 +198,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/flowinfoservice/YsyyFenChengCloseService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/flowinfoservice/impl/CityConfigRuleAlterServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/flowinfoservice/impl/CityFlowInfoServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/flowinfoservice/impl/LzEnterpriseTerminalServiceImpl.java" />
@@ -233,8 +246,9 @@
         <option value="$PROJECT_DIR$/src/day2/time_0226_0945/PrintFromTopToBottom.java" />
         <option value="$PROJECT_DIR$/src/day2/time_0229_1225/Print.java" />
         <option value="$PROJECT_DIR$/src/day2/time_0229_1225/PrintManyLines.java" />
-        <option value="$PROJECT_DIR$/src/day2/time_0229_1225/DESC.md" />
         <option value="$PROJECT_DIR$/src/day2/time_0229_1225/KthNode.java" />
+        <option value="$PROJECT_DIR$/src/day2/time_0229_1225/DESC.md" />
+        <option value="$PROJECT_DIR$/src/day2/time_0229_1225/Serialize.java" />
       </list>
     </option>
   </component>
@@ -369,7 +383,7 @@
     </option>
     <option name="contentProportion" value="0.060064934" />
   </component>
-  <component name="RunManager" selected="Application.DuiSortTest">
+  <component name="RunManager" selected="Application.Serialize">
     <configuration name="DuiSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day2.time_0227_1112.DuiSortTest" />
       <module name="jianzhiofferh" />
@@ -409,12 +423,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.time_0226_0945.Test" />
+    <configuration name="Serialize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.time_0229_1225.Serialize" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.time_0226_0945.*" />
+          <option name="PATTERN" value="day2.time_0229_1225.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -422,8 +436,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerifySquenceOfBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.time_0226_0945.VerifySquenceOfBST" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.time_0226_0945.Test" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
@@ -530,7 +544,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.VerifySquenceOfBST" />
       <item itemvalue="Application.FindValuePath" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.GetLeastNumbers_Solution" />
@@ -538,14 +551,15 @@
       <item itemvalue="Maven.webconsole [mvn,install...]" />
       <item itemvalue="Maven.mybatis-gen" />
       <item itemvalue="Spring Boot.WebConsoleApplication (3)" />
+      <item itemvalue="Application.Serialize" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Serialize" />
         <item itemvalue="Application.DuiSortTest" />
         <item itemvalue="Application.GetLeastNumbers_Solution" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.FindValuePath" />
-        <item itemvalue="Application.VerifySquenceOfBST" />
       </list>
     </recent_temporary>
   </component>
@@ -696,7 +710,7 @@
       <workItem from="1582862448601" duration="4917000" />
       <workItem from="1582888610342" duration="637000" />
       <workItem from="1582901066305" duration="308000" />
-      <workItem from="1582950209207" duration="7690000" />
+      <workItem from="1582950209207" duration="10355000" />
     </task>
     <servers />
   </component>
@@ -733,7 +747,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1093396000" />
+    <option name="totallyTimeSpent" value="1096061000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -746,9 +760,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.23304157" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" weight="0.23304157" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -759,7 +772,7 @@
       <window_info id="BPMN Editor" order="8" weight="0.32995737" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.36550975" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.36473164" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36692223" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -921,13 +934,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/day2/time_0224_1854/HouxuTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1760">
-          <caret line="100" column="30" selection-start-line="100" selection-start-column="30" selection-end-line="100" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day2/time_0224_1854/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2160">
@@ -1322,20 +1328,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/KthNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/DESC.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="100">
-            <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <first_editor relative-caret-position="120">
+            <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/KthNode.java">
+    <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/Serialize.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="-212">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
         </state>
       </provider>
     </entry>
