@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66f9eab9-85ba-487f-b063-e9cb01d5efa0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/day2/time_0226_0945/PrintFromTopToBottom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/time_0226_0945/PrintFromTopToBottom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day2/time_0229_1225/DESC.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/time_0229_1225/DESC.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,23 +56,37 @@
         <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/DESC.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <first_editor relative-caret-position="80">
+                <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/Print.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="64" column="8" lean-forward="true" selection-start-line="64" selection-start-column="8" selection-end-line="101" selection-end-column="19" />
+            <state relative-caret-position="83">
+              <caret line="70" column="25" lean-forward="true" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#265#266#0" expanded="true" />
                 <element signature="e#303#304#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/PrintManyLines.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="505">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -162,7 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/flowinfoservice/SgsStrategyChangeService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/flowinfoservice/YsyyAllProjectFenChengService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/flowinfoservice/YsyyFenChengCloseService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/flowinfoservice/impl/CityConfigRuleAlterServiceImpl.java" />
@@ -210,9 +222,10 @@
         <option value="$PROJECT_DIR$/src/day2/time_0227_1112/DESC.md" />
         <option value="$PROJECT_DIR$/src/day2/time_0229_1225/GetNextTreeNode.java" />
         <option value="$PROJECT_DIR$/src/day2/time_0229_1225/isSymmetrical.java" />
-        <option value="$PROJECT_DIR$/src/day2/time_0229_1225/DESC.md" />
         <option value="$PROJECT_DIR$/src/day2/time_0226_0945/PrintFromTopToBottom.java" />
         <option value="$PROJECT_DIR$/src/day2/time_0229_1225/Print.java" />
+        <option value="$PROJECT_DIR$/src/day2/time_0229_1225/DESC.md" />
+        <option value="$PROJECT_DIR$/src/day2/time_0229_1225/PrintManyLines.java" />
       </list>
     </option>
   </component>
@@ -674,7 +687,7 @@
       <workItem from="1582862448601" duration="4917000" />
       <workItem from="1582888610342" duration="637000" />
       <workItem from="1582901066305" duration="308000" />
-      <workItem from="1582950209207" duration="6310000" />
+      <workItem from="1582950209207" duration="6765000" />
     </task>
     <servers />
   </component>
@@ -711,7 +724,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1092016000" />
+    <option name="totallyTimeSpent" value="1092471000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -726,7 +739,7 @@
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" weight="0.23304157" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.23304157" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -899,7 +912,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/quartz/job/ZxbdLoseRateCountJob.java" />
     <entry file="jar://$PROJECT_DIR$/../Maven/repositorytest/org/mybatis/mybatis-spring/1.3.2/mybatis-spring-1.3.2-sources.jar!/org/mybatis/spring/mapper/ClassPathMapperScanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
@@ -1274,16 +1286,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/DESC.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day2/time_0226_0945/PrintFromTopToBottom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="543">
@@ -1294,14 +1296,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/DESC.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="80">
+            <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/Print.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="64" column="8" lean-forward="true" selection-start-line="64" selection-start-column="8" selection-end-line="101" selection-end-column="19" />
+        <state relative-caret-position="83">
+          <caret line="70" column="25" lean-forward="true" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#265#266#0" expanded="true" />
             <element signature="e#303#304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/PrintManyLines.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
           </folding>
         </state>
       </provider>
