@@ -4,9 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66f9eab9-85ba-487f-b063-e9cb01d5efa0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/day2/time_0229_1225/DESC.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/time_0229_1225/DESC.md" afterDir="false" />
-    </list>
+    <list default="true" id="66f9eab9-85ba-487f-b063-e9cb01d5efa0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,98 +51,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/DESC.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="140">
-                <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/day2/SortAlgorithms/InsetSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/FindGreatestSumOfSubArray.java">
+        <entry file="file://$PROJECT_DIR$/src/day2/SortAlgorithms/MaoPaoSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="40" column="19" lean-forward="true" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/Serialize.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-72">
-              <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/KthNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/Print.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="70" column="25" lean-forward="true" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
-                <element signature="e#303#304#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/PrintManyLines.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="48" column="20" lean-forward="true" selection-start-line="48" selection-start-column="20" selection-end-line="53" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/isSymmetrical.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="723">
-              <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-              <folding>
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day2/time_0226_0945/PrintFromTopToBottom.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
-              <caret line="66" column="40" lean-forward="true" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="280">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -207,8 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/flowinfoservice/impl/CityFlowInfoServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/flowinfoservice/impl/LzEnterpriseTerminalServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/flowinfoservice/impl/SgsSpSetupServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/flowinfoservice/impl/SgsStrategyChangeServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/unnet/hzfc/webconsole/service/flowinfoservice/impl/YsyyAllProjectFenChengServiceImpl.java" />
@@ -258,6 +175,8 @@
         <option value="$PROJECT_DIR$/src/day2/time_0229_1225/Serialize.java" />
         <option value="$PROJECT_DIR$/src/day2/time_0229_1225/DESC.md" />
         <option value="$PROJECT_DIR$/src/day2/time_0229_1225/FindGreatestSumOfSubArray.java" />
+        <option value="$PROJECT_DIR$/src/day2/SortAlgorithms/InsetSort.java" />
+        <option value="$PROJECT_DIR$/src/day2/SortAlgorithms/MaoPaoSort.java" />
       </list>
     </option>
   </component>
@@ -333,7 +252,7 @@
               <item name="jianzhiofferh" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="day2" type="462c0819:PsiDirectoryNode" />
-              <item name="time_0229_1225" type="462c0819:PsiDirectoryNode" />
+              <item name="SortAlgorithms" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -392,7 +311,7 @@
     </option>
     <option name="contentProportion" value="0.060064934" />
   </component>
-  <component name="RunManager" selected="Application.Serialize">
+  <component name="RunManager" selected="Application.MaoPaoSort">
     <configuration name="DuiSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day2.time_0227_1112.DuiSortTest" />
       <module name="jianzhiofferh" />
@@ -406,12 +325,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindValuePath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.time_0226_0945.FindValuePath" />
+    <configuration name="GetLeastNumbers_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.time_0227_1112.GetLeastNumbers_Solution" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.time_0226_0945.*" />
+          <option name="PATTERN" value="day2.time_0227_1112.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -419,12 +338,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetLeastNumbers_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.time_0227_1112.GetLeastNumbers_Solution" />
+    <configuration name="MaoPaoSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.SortAlgorithms.MaoPaoSort" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.time_0227_1112.*" />
+          <option name="PATTERN" value="day2.SortAlgorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -553,7 +472,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FindValuePath" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.GetLeastNumbers_Solution" />
       <item itemvalue="Application.DuiSortTest" />
@@ -561,14 +479,15 @@
       <item itemvalue="Maven.mybatis-gen" />
       <item itemvalue="Spring Boot.WebConsoleApplication (3)" />
       <item itemvalue="Application.Serialize" />
+      <item itemvalue="Application.MaoPaoSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaoPaoSort" />
         <item itemvalue="Application.Serialize" />
         <item itemvalue="Application.DuiSortTest" />
         <item itemvalue="Application.GetLeastNumbers_Solution" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.FindValuePath" />
       </list>
     </recent_temporary>
   </component>
@@ -719,7 +638,7 @@
       <workItem from="1582862448601" duration="4917000" />
       <workItem from="1582888610342" duration="637000" />
       <workItem from="1582901066305" duration="308000" />
-      <workItem from="1582950209207" duration="12108000" />
+      <workItem from="1582950209207" duration="14506000" />
     </task>
     <servers />
   </component>
@@ -756,7 +675,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1097814000" />
+    <option name="totallyTimeSpent" value="1100212000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -783,7 +702,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.36473164" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36692223" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.36692223" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
@@ -875,6 +794,12 @@
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day2/SortAlgorithms/MaoPaoSort.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -944,14 +869,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/day2/time_0226_0945/MirrorTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/time_0226_0945/desc.md.fxml" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1333,7 +1250,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/KthNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="383">
           <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1364,6 +1281,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
           <caret line="40" column="19" lean-forward="true" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/SortAlgorithms/InsetSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/SortAlgorithms/MaoPaoSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
         </state>
       </provider>
     </entry>
