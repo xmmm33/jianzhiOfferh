@@ -23,7 +23,9 @@ public class PrintFromTopToBottom {
         if (root == null) {
             return new ArrayList<>();
         }
+        // 层次遍历返回结果
         ArrayList<Integer> ret = new ArrayList<>();
+        // 保证先进先出
         List<TreeNode> temp = new LinkedList();
         temp.add(root);
         while (!temp.isEmpty()) {
