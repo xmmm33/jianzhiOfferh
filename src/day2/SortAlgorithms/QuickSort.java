@@ -6,11 +6,13 @@ package day2.SortAlgorithms;
  * 一趟快速排序采用从两头向中间扫描的方法，同时交换与基准记录逆序的记录
  * 快速排序不想归并排序需要额外的辅助存储空间
  * 思想：取一个基准值，把数组分成两个，一个是比基准值小的，一个是比基准值大的
+ * 快速排序是先排序后分区
  */
 public class QuickSort {
 
     public static void main(String[] agrs) {
         int[] a = new int[]{54, 21, 6, 4, 56, 1, 13, 45, 131, 5};
+        Test.quickSort(a, 0, a.length - 1);
         quickSort(a,0,a.length-1);
     }
 

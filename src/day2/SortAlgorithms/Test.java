@@ -47,4 +47,61 @@ public class Test {
             }
         }
     }
+
+    public static void guibingSort(int[] array, int left, int right) {
+        if (left >= right) {
+            return;
+        }
+        int mid = (left + right) / 2;
+        guibingSort(array, left, mid);
+        guibingSort(array, mid + 1, right);
+        merge(array, left, mid, right);
+    }
+
+    private static void merge(int[] array, int left, int mid, int right) {
+        int[] temp = new int[array.length];
+        int leftpoint = left;
+        int rightpoint = mid + 1;
+        int k = leftpoint;
+        while (leftpoint <= mid && rightpoint <= right) {
+            if (array[leftpoint] > array[rightpoint]) {
+                temp[k++] = array[leftpoint++];
+            }else {
+                temp[k++] = array[rightpoint++];
+            }
+        }
+        while (leftpoint <= mid) {
+            temp[k++] = array[leftpoint++];
+        }
+        while (rightpoint <= right) {
+            temp[k++] = array[rightpoint++];
+        }
+        for (int i = left; i <= right; i++) {
+            array[i] = temp[i];
+        }
+    }
+
+    public static void quickSort(int[] array, int left, int right) {
+        if (left >= right) {
+            return;
+        }
+        int basevalue = array[left];
+        int leftpoint = left;
+        int rightpoint = right;
+        while (leftpoint < rightpoint) {
+            while (leftpoint < rightpoint && array[rightpoint] >= basevalue) {
+                rightpoint--;
+            }
+            array[leftpoint] = array[rightpoint];
+            while (leftpoint < rightpoint && array[leftpoint] <= basevalue) {
+                leftpoint++;
+            }
+            array[rightpoint] = array[leftpoint];
+        }
+        array[leftpoint] = basevalue;
+        // 或者
+        array[rightpoint] = basevalue;
+        quickSort(array, left, leftpoint);
+        quickSort(array, rightpoint + 1, right);
+    }
 }

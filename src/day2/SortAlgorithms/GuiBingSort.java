@@ -5,11 +5,13 @@ package day2.SortAlgorithms;
  * 用到了分治的思想
  * 首先是对数组进行等分，然后在进行分组，直到每个分组有序
  * 然后进行合并，把两个有序的合并为一个有序的
+ * 归并排序是先分区，在排序
  */
 public class GuiBingSort {
 
     public static void main(String[] agrs) {
         int[] a = new int[]{54, 21, 6, 4, 56, 1, 13, 45, 131, 5};
+        Test.guibingSort(a,0,a.length-1);
         guibingSort(a, 0, a.length - 1);
     }
 
@@ -49,7 +51,7 @@ public class GuiBingSort {
         // 定义辅助数据的指针
         int k = leftpoint;
         while (leftpoint <= mid && rightpoint <= right) {
-            if (array[leftpoint] <= array[rightpoint]) {
+            if (array[leftpoint] > array[rightpoint]) {
                 temp[k++] = array[leftpoint++];
             }else {
                 temp[k++] = array[rightpoint++];
