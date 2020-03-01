@@ -11,6 +11,7 @@ public class ShellSort {
 
     public static void main(String[] agrs) {
         int[] a = new int[]{54, 21, 6, 4, 56, 1, 13, 45, 131, 5};
+        Test.shellsort(a);
         shellsort(a);
     }
 

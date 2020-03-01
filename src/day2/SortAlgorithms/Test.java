@@ -36,10 +36,10 @@ public class Test {
         }
         int len = array.length;
         // 希尔增量
-        for (int gap = len / 2; len >= 1; len = len / 2) {
+        for (int gap = len / 2; gap >= 1; gap = gap / 2) {
             // 从gap元素开始向前比比较 array[i] 与 array[i-gap] array[i-gap-gap] ...依次比较交换
             for (int i = gap; i < len; i++) {
-                for (int j = i; j >= gap && array[j - gap] > array[j]; j++) {
+                for (int j = i; j >= gap && array[j - gap] > array[j]; j=j-gap) {
                     int temp = array[j - gap];
                     array[j - gap] = array[j];
                     array[j] = temp;
