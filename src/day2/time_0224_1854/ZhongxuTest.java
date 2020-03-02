@@ -77,12 +77,14 @@ public class ZhongxuTest {
         }
         Stack<TreeNode> stack = new Stack<>();
         while (treeNode != null || !stack.isEmpty()) {
+            // 遍历左子树
             while (treeNode != null) {
                 stack.push(treeNode);
                 treeNode = treeNode.left;
             }
             TreeNode node = stack.pop();
             System.out.print(node.val);
+            // 把右子树也当成左子树来遍历
             treeNode = node.right;
         }
     }

@@ -76,11 +76,13 @@ public class HouxuTest {
         }
         Stack<TreeNode> stack = new Stack<>();
         while (treeNode != null || !stack.isEmpty()) {
+            // 遍历左子树
             while (treeNode != null) {
                 stack.push(treeNode);
                 treeNode = treeNode.left;
             }
             TreeNode node = stack.peek();
+            // 把右子树也当成一个树来处理
             treeNode = node.right;
             if (node.right == null) {
                 System.out.print(node.val);
