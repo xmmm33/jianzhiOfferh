@@ -2,3 +2,4 @@
 1. 求二叉树的最小深度 Solution
 2. 对表达式进行计算 evalRPN
 3. 求最大几个点在同一直线上 maxPoints
+4. 对abc进行全排列
