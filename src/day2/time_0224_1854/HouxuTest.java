@@ -70,6 +70,12 @@ public class HouxuTest {
         System.out.print(treeNode.val);
     }
 
+    /**
+     * 后序遍历的难点在于：需要判断上次访问的节点是位于左子树，还是右子树。
+     * 若是位于左子树，则需跳过根节点，先进入右子树，再回头访问根节点；
+     * 若是位于右子树，则直接访问根节点。
+     * @param treeNode
+     */
     public static void houxuNondigui(TreeNode treeNode) {
         if (treeNode == null) {
             return;
@@ -81,12 +87,14 @@ public class HouxuTest {
                 stack.push(treeNode);
                 treeNode = treeNode.left;
             }
+            // 这里不能pop，因为要判断是否右孩子节点为空，不为空就不能先打印根节点
             TreeNode node = stack.peek();
-            // 把右子树也当成一个树来处理
             treeNode = node.right;
+            // 判断node节点是否有右孩子节点，没有的话，直接访问node节点；如果有右孩子节点，需要先跳过，所以是stack.peek()；
             if (node.right == null) {
                 System.out.print(node.val);
-                stack.pop();
+                node = stack.pop();
+                // 这里需要去判断当前的node节点 是不是上一个节点的右孩子，如果是，弹出上一个节点，并打印，
                 while (!stack.isEmpty() && node == stack.peek().right) {
                     node = stack.pop();
                     System.out.print(node.val);

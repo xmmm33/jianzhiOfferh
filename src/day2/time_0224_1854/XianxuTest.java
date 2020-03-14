@@ -71,6 +71,11 @@ public class XianxuTest {
         xianxudigui(treeNode.right);
     }
 
+    /**
+     * 先访问完左子树，所以先是一个while循环，顺着左子树走完之后
+     * 再去访问根结点和右子树
+     * @param treeNode
+     */
     public static void xinaxuNondigui(TreeNode treeNode) {
         if (treeNode == null) {
             return;
@@ -83,9 +88,12 @@ public class XianxuTest {
                 stack.push(treeNode);
                 treeNode = treeNode.left;
             }
-            TreeNode node = stack.pop();
-            // 把右边也当成一棵树来处理
-            treeNode = node.right;
+            if (!stack.isEmpty()) {
+                // 这里取出的是最左边的左节点
+                TreeNode node = stack.pop();
+                // 把右边也当成一棵树来处理
+                treeNode = node.right;
+            }
         }
     }
 

@@ -71,21 +71,30 @@ public class ZhongxuTest {
         zhongxudigui(treeNode.right);
     }
 
+    /**
+     * 先访问完左子树，所以先是一个while循环，顺着左子树走完之后
+     * 再去访问根结点和右子树
+     * @param treeNode
+     */
     public static void zhongxuNondigui(TreeNode treeNode) {
         if (treeNode == null) {
             return;
         }
         Stack<TreeNode> stack = new Stack<>();
         while (treeNode != null || !stack.isEmpty()) {
-            // 遍历左子树
+            // 一直遍历到左子树最下边，边遍历 边保存根节点到栈中
             while (treeNode != null) {
                 stack.push(treeNode);
                 treeNode = treeNode.left;
             }
-            TreeNode node = stack.pop();
-            System.out.print(node.val);
-            // 把右子树也当成左子树来遍历
-            treeNode = node.right;
+            // 当treeNode为空时，说明已经到达左子树最下边，这时需要出栈了
+            if (!stack.isEmpty()) {
+                // 取出的是最左边的左节点
+                TreeNode node = stack.pop();
+                System.out.print(node.val);
+                // 进入右子树，开始新的一轮左子树遍历(这是递归的自我实现)
+                treeNode = node.right;
+            }
         }
     }
     public static void main(String[] args) {
