@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66f9eab9-85ba-487f-b063-e9cb01d5efa0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/day2/time_0224_1854/HouxuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/time_0224_1854/HouxuTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/time_0224_1854/XianxuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/time_0224_1854/XianxuTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/time_0224_1854/ZhongxuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/time_0224_1854/ZhongxuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/time_0227_1112/DuiSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/time_0227_1112/DuiSortTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,36 +53,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day1/time_0209_2007/getStackByDuilie.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day2/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day2/time_0302_1102/DESC.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="80">
-                <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day2/time_0302_1102/FullShow.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="457">
@@ -99,8 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day2/time_0227_1112/DuiSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+            <state relative-caret-position="440">
+              <caret line="52" column="30" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -123,29 +91,50 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day2/time_0224_1854/HouxuTest.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="97" column="23" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/practice/sort/maopao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="e#525#526#0" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/practice/sort/choose.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="e#620#621#0" expanded="true" />
+                <element signature="e#684#685#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/practice/sort/heap.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="416">
-              <caret line="92" column="37" lean-forward="true" selection-start-line="92" selection-start-column="37" selection-end-line="92" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Thread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2800">
-              <caret line="179" column="4" selection-start-line="179" selection-start-column="4" selection-end-line="181" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/ThreadLocal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5460">
-              <caret line="315" column="9" selection-start-line="297" selection-start-column="4" selection-end-line="315" selection-end-column="9" />
+              <caret line="52" column="9" lean-forward="true" selection-end-line="59" />
+              <folding>
+                <element signature="e#1359#1360#0" expanded="true" />
+                <element signature="e#1423#1424#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -208,9 +197,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/day2/time_0226_0945/HasSubtree.java" />
-        <option value="$PROJECT_DIR$/src/day2/time_0226_0945/MirrorTree.java" />
-        <option value="$PROJECT_DIR$/src/day2/time_0224_1854/reConstructBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/day2/time_0226_0945/desc.md.fxml" />
         <option value="$PROJECT_DIR$/src/day2/time_0224_1854/DESC.md" />
         <option value="$PROJECT_DIR$/src/day1/time_0213_1322/DESC.md" />
@@ -255,10 +241,13 @@
         <option value="$PROJECT_DIR$/src/day2/Test.java" />
         <option value="$PROJECT_DIR$/src/day2/time_0302_1102/DESC.md" />
         <option value="$PROJECT_DIR$/src/day2/time_0302_1102/FullShow.java" />
-        <option value="$PROJECT_DIR$/src/day2/time_0227_1112/DuiSortTest.java" />
         <option value="$PROJECT_DIR$/src/day2/time_0224_1854/XianxuTest.java" />
         <option value="$PROJECT_DIR$/src/day2/time_0224_1854/ZhongxuTest.java" />
         <option value="$PROJECT_DIR$/src/day2/time_0224_1854/HouxuTest.java" />
+        <option value="$PROJECT_DIR$/src/practice/sort/maopao.java" />
+        <option value="$PROJECT_DIR$/src/practice/sort/choose.java" />
+        <option value="$PROJECT_DIR$/src/practice/sort/heap.java" />
+        <option value="$PROJECT_DIR$/src/day2/time_0227_1112/DuiSortTest.java" />
       </list>
     </option>
   </component>
@@ -326,20 +315,14 @@
               <item name="jianzhiofferh" type="b2602c69:ProjectViewProjectNode" />
               <item name="jianzhiofferh" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day1" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jianzhiofferh" type="b2602c69:ProjectViewProjectNode" />
               <item name="jianzhiofferh" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jianzhiofferh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jianzhiofferh" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
-              <item name="time_0224_1854" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -400,13 +383,13 @@
     </option>
     <option name="contentProportion" value="0.060064934" />
   </component>
-  <component name="RunManager" selected="Application.HouxuTest">
-    <configuration name="FullShow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.time_0302_1102.FullShow" />
+  <component name="RunManager" selected="Application.heap">
+    <configuration name="DuiSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.time_0227_1112.DuiSortTest" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.time_0302_1102.*" />
+          <option name="PATTERN" value="day2.time_0227_1112.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -427,12 +410,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.Test" />
+    <configuration name="choose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.sort.choose" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="practice.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -440,12 +423,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XianxuTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.time_0224_1854.XianxuTest" />
+    <configuration name="heap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.sort.heap" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.time_0224_1854.*" />
+          <option name="PATTERN" value="practice.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -453,12 +436,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="insertionSortList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.time_0302_1102.insertionSortList" />
+    <configuration name="maopao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.sort.maopao" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.time_0302_1102.*" />
+          <option name="PATTERN" value="practice.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -561,22 +544,22 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.insertionSortList" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.FullShow" />
       <item itemvalue="Maven.webconsole [mvn,install...]" />
       <item itemvalue="Maven.mybatis-gen" />
       <item itemvalue="Spring Boot.WebConsoleApplication (3)" />
-      <item itemvalue="Application.XianxuTest" />
       <item itemvalue="Application.HouxuTest" />
+      <item itemvalue="Application.maopao" />
+      <item itemvalue="Application.choose" />
+      <item itemvalue="Application.heap" />
+      <item itemvalue="Application.DuiSortTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.heap" />
+        <item itemvalue="Application.DuiSortTest" />
+        <item itemvalue="Application.choose" />
+        <item itemvalue="Application.maopao" />
         <item itemvalue="Application.HouxuTest" />
-        <item itemvalue="Application.XianxuTest" />
-        <item itemvalue="Application.FullShow" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.insertionSortList" />
       </list>
     </recent_temporary>
   </component>
@@ -743,7 +726,7 @@
       <workItem from="1583894350450" duration="724000" />
       <workItem from="1583997188045" duration="612000" />
       <workItem from="1584068582352" duration="615000" />
-      <workItem from="1584154144918" duration="3018000" />
+      <workItem from="1584154144918" duration="5859000" />
     </task>
     <servers />
   </component>
@@ -780,7 +763,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1138301000" />
+    <option name="totallyTimeSpent" value="1141142000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -795,7 +778,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.17110874" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.17110874" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -806,8 +789,8 @@
       <window_info id="BPMN Editor" order="8" weight="0.32995737" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.36442515" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.30477223" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.36442515" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30477223" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
@@ -975,44 +958,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="1232" column="22" selection-start-line="1232" selection-start-column="22" selection-end-line="1232" selection-end-column="22" />
-          <folding>
-            <element signature="e#46394#46395#0" expanded="true" />
-            <element signature="e#46458#46459#0" expanded="true" />
-            <element signature="e#47036#47037#0" expanded="true" />
-            <element signature="e#47092#47093#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="665" column="17" selection-start-line="665" selection-start-column="17" selection-end-line="665" selection-end-column="17" />
-          <folding>
-            <element signature="e#5287#5288#0" expanded="true" />
-            <element signature="e#5345#5346#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="585" column="14" selection-start-line="585" selection-start-column="14" selection-end-line="585" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/Executor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="712">
-          <caret line="127" column="17" selection-start-line="127" selection-start-column="17" selection-end-line="127" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/BlockingQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-842">
@@ -1371,13 +1316,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/time_0227_1112/DuiSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day2/time_0224_1854/XianxuTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
@@ -1392,10 +1330,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/sort.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/sort/maopao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day2/time_0224_1854/HouxuTest.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="97" column="23" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/sort/choose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/time_0227_1112/DuiSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="52" column="30" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/sort/heap.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
-          <caret line="92" column="37" lean-forward="true" selection-start-line="92" selection-start-column="37" selection-end-line="92" selection-end-column="37" />
+          <caret line="52" column="9" lean-forward="true" selection-end-line="59" />
+          <folding>
+            <element signature="e#1359#1360#0" expanded="true" />
+            <element signature="e#1423#1424#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
