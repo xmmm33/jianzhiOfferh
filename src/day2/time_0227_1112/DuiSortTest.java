@@ -28,7 +28,7 @@ public class DuiSortTest {
             return;
         }
         // 找到最后一个节点的父节点 就是i
-        for (int i = ints.length - 2 / 2; i >= 0; i--) {
+        for (int i = (ints.length - 2) / 2; i >= 0; i--) {
             adjust(ints, i, ints.length);
         }
     }
@@ -36,13 +36,15 @@ public class DuiSortTest {
     private static void adjust(int[] ints, int parent, int length) {
         int temp = ints[parent];
         for (int i = 2 * parent + 1; i < length - 1; i++) {
+            // 判断parent节点的左右子树谁更大，取更大的那个节点的索引i值
             if (i + 1 < length && ints[i] < ints[i + 1]) {
                 i++;
             }
+            // 判断parent节点是不是大于较大的子节点，如果大于，符合大根堆直接跳出循环
             if (temp >= ints[i]) {
                 break;
             }else {
-                // 交换parent节点与i节点的值，然后使得parent指向较大子节点i，继续向下调整
+                // 否则，交换parent节点与i节点的值，然后使得parent指向较大子节点i，继续向下调整
                 ints[parent] = ints[i];
                 parent = i;
             }
