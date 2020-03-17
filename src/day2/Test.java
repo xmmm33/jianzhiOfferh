@@ -14,8 +14,8 @@ public class Test extends Thread{
                     /*存入当前线程独有的值*/
                     t1.set(d.intValue());
                     t2.set((int) (d + 1));
-                    System.out.println(t1.get());
-                    System.out.println(t2.get());
+                    System.out.println(Thread.currentThread() + t1.get().toString());
+                    System.out.println(Thread.currentThread() + t2.get().toString());
                 }
             }).start();
         }
