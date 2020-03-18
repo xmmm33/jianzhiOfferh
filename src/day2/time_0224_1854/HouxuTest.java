@@ -1,5 +1,7 @@
 package day2.time_0224_1854;
 
+import practice.tree.treeBianli;
+
 import java.util.Stack;
 
 public class HouxuTest {
@@ -108,6 +110,6 @@ public class HouxuTest {
         System.out.println("递归后序");
         houxudigui(treeNode);
         System.out.println("\n非递归后序");
-        houxuNondigui(treeNode);
+        treeBianli.houxu(treeNode);
     }
 }

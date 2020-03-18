@@ -1,5 +1,7 @@
 package day2.time_0224_1854;
 
+import practice.tree.treeBianli;
+
 import java.util.Stack;
 
 public class XianxuTest {
@@ -102,6 +104,6 @@ public class XianxuTest {
         System.out.println("递归先序");
         xinaxuNondigui(root);
         System.out.println("\n非递归先序");
-        xinaxuNondigui(root);
+        treeBianli.xianxu(root);
     }
 }
