@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="66f9eab9-85ba-487f-b063-e9cb01d5efa0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/time_0224_1854/HouxuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/time_0224_1854/HouxuTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/time_0224_1854/XianxuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/time_0224_1854/XianxuTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/time_0224_1854/ZhongxuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/time_0224_1854/ZhongxuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/time_0216_1814/JDKDynamicProxyDemo/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/time_0216_1814/JDKDynamicProxyDemo/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/time_0216_1814/JDKDynamicProxyDemo/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/time_0216_1814/JDKDynamicProxyDemo/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/BFS/bfs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/BFS/bfs.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,67 +56,58 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/erfenFind/mySqrt.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/DFS/dfs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+            <state relative-caret-position="920">
+              <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/fenzhi/diffWaysToCompute.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1299#1300#0" expanded="true" />
-                <element signature="e#1341#1342#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/fenzhi/generateTrees.java">
+        <entry file="file://$PROJECT_DIR$/src/practice/sort/heap.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="760">
-              <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1176#1177#0" expanded="true" />
-                <element signature="e#1202#1203#0" expanded="true" />
-              </folding>
+              <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/BFS/bfs.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/DFS/findCircleNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="600">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/practice/saima/gushen.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/DFS/tianchongO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state relative-caret-position="900">
+              <caret line="45" column="54" lean-forward="true" selection-start-line="45" selection-start-column="54" selection-end-line="45" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/practice/tree/treeBianli.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day1/time_0216_1814/JDKDynamicProxyDemo/UserService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="65" column="43" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
+            <state relative-caret-position="80">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day1/time_0216_1814/JDKDynamicProxyDemo/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -125,8 +116,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day2/time_0224_1854/HouxuTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="93" column="20" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="20" />
+            <state relative-caret-position="412">
+              <caret line="87" column="38" lean-forward="true" selection-start-line="87" selection-start-column="38" selection-end-line="87" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -134,10 +125,19 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/tanxin/maxSubArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day2/time_0224_1854/ZhongxuTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="536">
+            <state relative-caret-position="1880">
               <caret line="106" column="27" selection-start-line="106" selection-start-column="27" selection-end-line="106" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -149,20 +149,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day2/time_0224_1854/XianxuTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
+            <state relative-caret-position="1880">
               <caret line="106" column="14" selection-start-line="106" selection-start-column="14" selection-end-line="106" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/erfenFind/nextGreatestLetter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="20" column="71" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -225,12 +216,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/day2/time_0229_1225/PrintManyLines.java" />
-        <option value="$PROJECT_DIR$/src/day2/time_0229_1225/KthNode.java" />
-        <option value="$PROJECT_DIR$/src/day2/time_0229_1225/Serialize.java" />
-        <option value="$PROJECT_DIR$/src/day2/time_0229_1225/DESC.md" />
-        <option value="$PROJECT_DIR$/src/day2/time_0229_1225/FindGreatestSumOfSubArray.java" />
-        <option value="$PROJECT_DIR$/src/day2/SortAlgorithms/InsetSort.java" />
         <option value="$PROJECT_DIR$/src/day2/SortAlgorithms/MaoPaoSort.java" />
         <option value="$PROJECT_DIR$/src/day2/SortAlgorithms/ShellSort.java" />
         <option value="$PROJECT_DIR$/src/day2/SortAlgorithms/Test.java" />
@@ -269,13 +254,19 @@
         <option value="$PROJECT_DIR$/src/leetcode/erfenFind/nextGreatestLetter.java" />
         <option value="$PROJECT_DIR$/src/leetcode/fenzhi/diffWaysToCompute.java" />
         <option value="$PROJECT_DIR$/src/leetcode/fenzhi/generateTrees.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/BFS/bfs.java" />
         <option value="$PROJECT_DIR$/src/practice/saima/gushen.java" />
         <option value="$PROJECT_DIR$/src/practice/tree.java" />
         <option value="$PROJECT_DIR$/src/day2/time_0224_1854/XianxuTest.java" />
         <option value="$PROJECT_DIR$/src/day2/time_0224_1854/ZhongxuTest.java" />
         <option value="$PROJECT_DIR$/src/day2/time_0224_1854/HouxuTest.java" />
         <option value="$PROJECT_DIR$/src/practice/tree/treeBianli.java" />
+        <option value="$PROJECT_DIR$/src/day1/time_0216_1814/JDKDynamicProxyDemo/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/day1/time_0216_1814/JDKDynamicProxyDemo/UserService.java" />
+        <option value="$PROJECT_DIR$/src/day1/time_0216_1814/JDKDynamicProxyDemo/Test.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/BFS/bfs.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/DFS/dfs.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/DFS/findCircleNum.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/DFS/tianchongO.java" />
       </list>
     </option>
   </component>
@@ -313,7 +304,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -344,19 +335,20 @@
               <item name="jianzhiofferh" type="b2602c69:ProjectViewProjectNode" />
               <item name="jianzhiofferh" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="bishi" type="462c0819:PsiDirectoryNode" />
+              <item name="day1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jianzhiofferh" type="b2602c69:ProjectViewProjectNode" />
               <item name="jianzhiofferh" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="day2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jianzhiofferh" type="b2602c69:ProjectViewProjectNode" />
               <item name="jianzhiofferh" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="day2" type="462c0819:PsiDirectoryNode" />
+              <item name="time_0302_1102" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -416,13 +408,26 @@
     </option>
     <option name="contentProportion" value="0.060064934" />
   </component>
-  <component name="RunManager" selected="Application.HouxuTest">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="HouxuTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day2.time_0224_1854.HouxuTest" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day2.time_0224_1854.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1.time_0216_1814.JDKDynamicProxyDemo.Test" />
+      <module name="jianzhiofferh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day1.time_0216_1814.JDKDynamicProxyDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -449,19 +454,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day2.time_0224_1854.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="generateTrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.fenzhi.generateTrees" />
-      <module name="jianzhiofferh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.fenzhi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -577,22 +569,22 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.generateTrees" />
-      <item itemvalue="Maven.webconsole [mvn,install...]" />
-      <item itemvalue="Maven.mybatis-gen" />
-      <item itemvalue="Spring Boot.WebConsoleApplication (3)" />
       <item itemvalue="Application.gushen" />
       <item itemvalue="Application.XianxuTest" />
       <item itemvalue="Application.ZhongxuTest" />
       <item itemvalue="Application.HouxuTest" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Maven.webconsole [mvn,install...]" />
+      <item itemvalue="Maven.mybatis-gen" />
+      <item itemvalue="Spring Boot.WebConsoleApplication (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.HouxuTest" />
         <item itemvalue="Application.ZhongxuTest" />
         <item itemvalue="Application.XianxuTest" />
         <item itemvalue="Application.gushen" />
-        <item itemvalue="Application.generateTrees" />
       </list>
     </recent_temporary>
   </component>
@@ -763,7 +755,11 @@
       <workItem from="1584258635995" duration="694000" />
       <workItem from="1584264323853" duration="2169000" />
       <workItem from="1584415123044" duration="13072000" />
-      <workItem from="1584497326263" duration="5033000" />
+      <workItem from="1584497326263" duration="7282000" />
+      <workItem from="1584588654142" duration="1704000" />
+      <workItem from="1584600438567" duration="4561000" />
+      <workItem from="1584613134952" duration="140000" />
+      <workItem from="1584618928302" duration="1371000" />
     </task>
     <servers />
   </component>
@@ -800,7 +796,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1170242000" />
+    <option name="totallyTimeSpent" value="1180267000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -815,7 +811,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.17750533" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.18443497" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -826,7 +822,7 @@
       <window_info id="BPMN Editor" order="8" weight="0.32995737" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.21475054" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.30368763" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30260304" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1001,82 +997,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/day2/time_0302_1102/evalRPN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="712">
-          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/SortAlgorithms/MaoPaoSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/time_0302_1102/DESC.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="80">
-            <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/time_0229_1225/DESC.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="140">
-            <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/time_0227_1112/DESC.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="3" selection-start-line="3" selection-end-line="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/time_0224_1854/DESC.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day1/time_0213_1322/DESC.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day1/time_0212_1347/DESC.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day1/time_0211_1420/DESC.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day1/time_0209_2009/Maopao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -1191,13 +1111,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/sort/heap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="57" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/practice/sort/shell.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -1265,13 +1178,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/tanxin/maxSubArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="18" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/tanxin/partitionLabels.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
@@ -1327,13 +1233,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/BFS/bfs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/practice/sort/insert.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
@@ -1348,9 +1247,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/tree.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/tree.java" />
     <entry file="file://$PROJECT_DIR$/src/practice/saima/gushen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -1358,20 +1255,114 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/time_0224_1854/XianxuTest.java">
+    <entry file="file://$PROJECT_DIR$/src/practice/tree/treeBianli.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="106" column="14" selection-start-line="106" selection-start-column="14" selection-end-line="106" selection-end-column="14" />
+        <state relative-caret-position="1180">
+          <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13500">
+          <caret line="718" column="19" selection-start-line="718" selection-start-column="19" selection-end-line="718" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/reflect/WeakCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="99" column="13" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/time_0216_1814/JDKDynamicProxyDemo/InvokHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/time_0216_1814/JDKDynamicProxyDemo/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/BFS/bfs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1660">
+          <caret line="83" column="56" selection-start-line="83" selection-start-column="56" selection-end-line="83" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/DFS/dfs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/sort/heap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/DFS/findCircleNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/DFS/tianchongO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="45" column="54" lean-forward="true" selection-start-line="45" selection-start-column="54" selection-end-line="45" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/time_0216_1814/JDKDynamicProxyDemo/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/time_0216_1814/JDKDynamicProxyDemo/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day2/time_0224_1854/ZhongxuTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
+        <state relative-caret-position="1880">
           <caret line="106" column="27" selection-start-line="106" selection-start-column="27" selection-end-line="106" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/time_0224_1854/XianxuTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1880">
+          <caret line="106" column="14" selection-start-line="106" selection-start-column="14" selection-end-line="106" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1380,21 +1371,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day2/time_0224_1854/HouxuTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="93" column="20" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="20" />
+        <state relative-caret-position="412">
+          <caret line="87" column="38" lean-forward="true" selection-start-line="87" selection-start-column="38" selection-end-line="87" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/tree/treeBianli.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/tanxin/maxSubArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="65" column="43" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
