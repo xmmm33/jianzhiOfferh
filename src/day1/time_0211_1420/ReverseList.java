@@ -79,4 +79,34 @@ public class ReverseList {
         }
         return head.next;
     }
+
+    public static int subString(int[] a) {
+        if (a.length < 1) {
+            return 0;
+        }
+        int[] dp = new int[a.length];
+        dp[0] = 1;
+        int max = dp[0];
+        for (int i = 1; i <a.length ; i++) {
+            dp[i] = 1;
+            for (int j = 0; j < i; j++) {
+                if (a[i] >= a[j]) {
+                    dp[i] = Math.max(dp[i], dp[j] + 1);
+                    max = Math.max(max, dp[i]);
+                }
+            }
+        }
+        return max;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(subString(new int[]{1, 3, 46, 4, 8, 4}));
+        String a = new String("ab"); // a 为一个引用
+        String b = new String("ab"); // b为另一个引用,对象的内容一样
+        String aa = "ab"; // 放在常量池中
+        String bb = "ab"; // 从常量池中查找
+        System.out.println(aa == bb); // true
+        System.out.println(a == b); // false，非同一对象
+        System.out.println(a.equals(b)); // true
+    }
 }

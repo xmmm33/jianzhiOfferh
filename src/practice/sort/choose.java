@@ -1,5 +1,8 @@
 package practice.sort;
 
+/**
+ * 选择排序 On^2
+ */
 public class choose {
 
     public static void choose(int[] array) {

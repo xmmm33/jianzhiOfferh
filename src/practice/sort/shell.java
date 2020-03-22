@@ -25,7 +25,30 @@ public class shell {
         }
     }
 
+    /**
+     * 升级版的插入排序
+     */
+    public static void shell2(int[] array) {
+        if (array.length < 1) {
+            return;
+        }
+        for (int gap = array.length / 2; gap > 0; gap = gap / 2) {
+            for (int i = gap; i <array.length ; i = i+gap) {
+                for (int j = i; j >0 ; j=j-gap) {
+                    if (array[j] > array[j - gap]) {
+                        int temp = array[j];
+                        array[j] = array[j - gap];
+                        array[j-gap] = temp;
+                    }
+                }
+            }
+        }
+        for (int i : array) {
+            System.out.println(i);
+        }
+    }
+
     public static void main(String[] a) {
-        shell(new int[]{1,5,6,1,32,5,4,5,1,2,54,3,131});
+        shell2(new int[]{1,5,6,1,32,5,4,5,1,2,54,3,131});
     }
 }

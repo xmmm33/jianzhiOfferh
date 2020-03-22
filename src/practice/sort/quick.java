@@ -71,4 +71,7 @@ public class quick {
         quciksort(array, low, leftpoint - 1);
         quciksort(array, rightpoint + 1, high);
     }
+
+
+
 }
