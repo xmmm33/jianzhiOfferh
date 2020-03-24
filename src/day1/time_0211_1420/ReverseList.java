@@ -45,6 +45,27 @@ public class ReverseList {
         return  cur;
     }
 
+    public static ListNode re(ListNode h){
+        if (h == null) {
+            return null;
+        }
+        if (h.next == null) {
+            return h;
+        }
+        ListNode pre = h,
+                cur = h.next,
+                next = h.next.next;
+        pre.next = null;
+        while (next != null) {
+            cur.next = pre;
+            pre = cur;
+            cur = next;
+            next = next.next;
+        }
+        cur.next = pre;
+        return cur;
+    }
+
     public ListNode ReverseListTwo(ListNode listNode) {
         if (listNode == null || listNode.next == null) {
             return listNode;

@@ -7,7 +7,7 @@ package day1.time_0207_2020;
 public class Fibonacci {
 
     public static void main(String[] args) {
-        System.out.println(Fibtwo(10));
+        System.out.println(f(10));
     }
 
     /**
@@ -52,5 +52,25 @@ public class Fibonacci {
             return ret;
         }
     }
+
+    public static int f(int n) {
+        if (n == 0) {
+            return 0;
+        }
+        if (n == 1) {
+            return 1;
+        }else {
+            int ret = 0;
+            int a = 0;
+            int b = 1;
+            for (int i = 0; i < n-1; i++) {
+                ret = a + b;
+                a = b;
+                b = ret;
+            }
+            return ret;
+        }
+    }
+
 
 }
