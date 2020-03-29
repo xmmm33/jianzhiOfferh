@@ -30,8 +30,10 @@ public class canJump {
         boolean[] dp = new boolean[nums.length];
         dp[0] = true;
         for (int i = 0; i < nums.length; i++) {
-            for (int j = i; j < nums.length && j <= i + nums[i]; j++) {
-                dp[j] = true;
+            if (dp[i]) {
+                for (int j = i; j < nums.length && j <= i + nums[i]; j++) {
+                    dp[j] = true;
+                }
             }
         }
         if (dp[nums.length - 1]) {
@@ -39,5 +41,20 @@ public class canJump {
         }else {
             return false;
         }
+    }
+
+    public boolean jjj(int[] nums) {
+        if (nums.length < 1) {
+            return false;
+        }
+        boolean[] res = new boolean[nums.length];
+        for (int i = 0; i < nums.length; i++) {
+            if (res[i]) {
+                for (int j = i; j < nums.length && j <= i + nums[i]; j++) {
+                    res[j] = true;
+                }
+            }
+        }
+        return res[nums.length - 1];
     }
 }
