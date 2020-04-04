@@ -15,7 +15,7 @@ public class MinStack {
         if (!min.isEmpty()) {
             if (min.peek() > node) {
                 min.push(node);
-            }else {
+            }else if (min.peek().equals(node)){
                 min.push(min.peek());
             }
         }
