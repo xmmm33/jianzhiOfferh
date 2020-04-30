@@ -58,7 +58,7 @@ public class heap {
     }
 
     public static void main(String[] a2) {
-        int[] a = new int[]{1, 5, 6, 1, 32, 5, 4, 5, 1, 2, 54, 3, 131};
+        int[] a = new int[]{0,0,1,2,4,2,2,3,1,4};
         heap(a);
         for (int s : a) {
             System.out.println(s);
