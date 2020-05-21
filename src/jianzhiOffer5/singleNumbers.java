@@ -1,7 +1,7 @@
 package jianzhiOffer5;
 
 /**
- * 找出数组中数字出现的次数
+ * 找出数组中数字出现的次数，只有两个数字出现一次，其他的数字都出现了两次
  */
 public class singleNumbers {
 
