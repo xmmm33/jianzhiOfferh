@@ -168,13 +168,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.constructArr">
-    <configuration name="constructArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhiOffer6.constructArr" />
+  <component name="RunManager" selected="Application.strToInt">
+    <configuration name="constructArr (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhiOffer7.constructArr" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzhiOffer6.*" />
+          <option name="PATTERN" value="jianzhiOffer7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,8 +182,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findContinuousSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhiOffer6.findContinuousSequence" />
+    <configuration name="constructArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhiOffer6.constructArr" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
@@ -221,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhiOffer6.reverseWords" />
+    <configuration name="strToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhiOffer7.strToInt" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzhiOffer6.*" />
+          <option name="PATTERN" value="jianzhiOffer7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,22 +329,22 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.findContinuousSequence" />
-      <item itemvalue="Application.reverseWords" />
       <item itemvalue="Application.reverseLeftWords" />
       <item itemvalue="Application.maxSlidingWindow" />
+      <item itemvalue="Application.constructArr" />
       <item itemvalue="Maven.webconsole [mvn,install...]" />
       <item itemvalue="Maven.mybatis-gen" />
       <item itemvalue="Spring Boot.WebConsoleApplication (3)" />
-      <item itemvalue="Application.constructArr" />
+      <item itemvalue="Application.constructArr (1)" />
+      <item itemvalue="Application.strToInt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.strToInt" />
+        <item itemvalue="Application.constructArr (1)" />
         <item itemvalue="Application.constructArr" />
         <item itemvalue="Application.maxSlidingWindow" />
         <item itemvalue="Application.reverseLeftWords" />
-        <item itemvalue="Application.reverseWords" />
-        <item itemvalue="Application.findContinuousSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -568,7 +568,8 @@
       <workItem from="1589946986059" duration="10465000" />
       <workItem from="1590027846102" duration="11153000" />
       <workItem from="1590213776200" duration="401000" />
-      <workItem from="1590229390632" duration="6584000" />
+      <workItem from="1590229390632" duration="6839000" />
+      <workItem from="1590644028617" duration="5117000" />
     </task>
     <task id="LOCAL-00001" summary="测试idea提交git">
       <created>1590214128326</created>
@@ -661,42 +662,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="780" y="258" key="#xdebugger.evaluate" timestamp="1590646317664">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="780" y="258" key="#xdebugger.evaluate/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590646317664" />
     <state x="702" y="327" key="FileChooserDialogImpl" timestamp="1590213899727">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="702" y="327" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590213899727" />
-    <state width="2005" height="376" key="GridCell.Tab.0.bottom" timestamp="1590239017340">
+    <state width="2005" height="275" key="GridCell.Tab.0.bottom" timestamp="1590646295398">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590239017340" />
-    <state width="2005" height="376" key="GridCell.Tab.0.center" timestamp="1590239017340">
+    <state width="2005" height="275" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590646295398" />
+    <state width="2005" height="275" key="GridCell.Tab.0.center" timestamp="1590646295398">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590239017340" />
-    <state width="2005" height="376" key="GridCell.Tab.0.left" timestamp="1590239017340">
+    <state width="2005" height="275" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590646295398" />
+    <state width="2005" height="275" key="GridCell.Tab.0.left" timestamp="1590646295398">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590239017340" />
-    <state width="2005" height="376" key="GridCell.Tab.0.right" timestamp="1590239017340">
+    <state width="2005" height="275" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590646295398" />
+    <state width="2005" height="275" key="GridCell.Tab.0.right" timestamp="1590646295398">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590239017340" />
-    <state width="2005" height="376" key="GridCell.Tab.1.bottom" timestamp="1590239017443">
+    <state width="2005" height="275" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590646295398" />
+    <state width="2005" height="275" key="GridCell.Tab.1.bottom" timestamp="1590646295507">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590239017443" />
-    <state width="2005" height="376" key="GridCell.Tab.1.center" timestamp="1590239017442">
+    <state width="2005" height="275" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590646295507" />
+    <state width="2005" height="275" key="GridCell.Tab.1.center" timestamp="1590646295507">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.1.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590239017442" />
-    <state width="2005" height="376" key="GridCell.Tab.1.left" timestamp="1590239017442">
+    <state width="2005" height="275" key="GridCell.Tab.1.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590646295507" />
+    <state width="2005" height="275" key="GridCell.Tab.1.left" timestamp="1590646295507">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.1.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590239017442" />
-    <state width="2005" height="376" key="GridCell.Tab.1.right" timestamp="1590239017442">
+    <state width="2005" height="275" key="GridCell.Tab.1.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590646295507" />
+    <state width="2005" height="275" key="GridCell.Tab.1.right" timestamp="1590646295507">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.1.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590239017442" />
+    <state width="2005" height="275" key="GridCell.Tab.1.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590646295507" />
     <state x="423" y="217" key="SettingsEditor" timestamp="1590214030160">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -705,10 +710,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590229981960" />
-    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1590239268948">
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1590644201441">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590239268948" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590644201441" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -767,11 +772,6 @@
           <url>file://$PROJECT_DIR$/src/jianzhiOffer6/reverseLeftWords.java</url>
           <line>14</line>
           <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/jianzhiOffer6/constructArr.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="62" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
