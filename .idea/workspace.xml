@@ -30,12 +30,7 @@
   <component name="ChangeListManager">
     <list default="true" id="66f9eab9-85ba-487f-b063-e9cb01d5efa0" name="Default Changelist" comment="测试idea提交git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jindian/CheckPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jindian1/CheckPermutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jindian/canPermutePalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jindian1/canPermutePalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jindian/compressString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jindian1/compressString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jindian/isUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jindian1/isUnique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jindian/oneEditAway.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jindian1/oneEditAway.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jindian/replaceSpaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jindian1/replaceSpaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jindian2/isPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jindian2/isPalindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -576,7 +571,7 @@
       <workItem from="1590213776200" duration="401000" />
       <workItem from="1590229390632" duration="6839000" />
       <workItem from="1590644028617" duration="13312000" />
-      <workItem from="1590716630756" duration="6183000" />
+      <workItem from="1590716630756" duration="14220000" />
     </task>
     <task id="LOCAL-00001" summary="测试idea提交git">
       <created>1590214128326</created>

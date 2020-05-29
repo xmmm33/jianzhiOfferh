@@ -34,4 +34,37 @@ public class isPalindrome {
         }
         return true;
     }
+
+    // 快慢指针判断回文链表
+    public boolean isP(ListNode head) {
+        if (head == null) {
+            return true;
+        }
+        ListNode slow = head;
+        ListNode fast = head;
+        // 寻找链表的中间节点
+        while (fast.next != null && fast.next.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        // 现在slow指向就是中间节点
+        // 然后需要翻转后半部分链表
+        ListNode pre = null;
+        while (slow != null) {
+            ListNode next = slow.next;
+            slow.next = pre;
+            pre = slow;
+            slow = next;
+        }
+        // 然后比较两部分的链表每个元素是否相同
+        ListNode temp = head;
+        while (pre != null && temp != null) {
+            if (pre.val != temp.val) {
+                return false;
+            }
+            pre = pre.next;
+            temp = temp.next;
+        }
+        return true;
+    }
 }
