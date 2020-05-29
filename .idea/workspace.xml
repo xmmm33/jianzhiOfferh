@@ -30,6 +30,12 @@
   <component name="ChangeListManager">
     <list default="true" id="66f9eab9-85ba-487f-b063-e9cb01d5efa0" name="Default Changelist" comment="测试idea提交git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jindian/CheckPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jindian1/CheckPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jindian/canPermutePalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jindian1/canPermutePalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jindian/compressString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jindian1/compressString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jindian/isUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jindian1/isUnique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jindian/oneEditAway.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jindian1/oneEditAway.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jindian/replaceSpaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jindian1/replaceSpaces.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,13 +174,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.compressString">
+  <component name="RunManager" selected="Application.isFlipedString">
     <configuration name="compressString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jindian.compressString" />
+      <option name="MAIN_CLASS_NAME" value="jindian1.compressString" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jindian.*" />
+          <option name="PATTERN" value="jindian1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,25 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="constructArr (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhiOffer7.constructArr" />
+    <configuration name="isFlipedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jindian2.isFlipedString" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzhiOffer7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="constructArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhiOffer6.constructArr" />
-      <module name="jianzhiofferh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jianzhiOffer6.*" />
+          <option name="PATTERN" value="jindian2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,11 +202,11 @@
       </method>
     </configuration>
     <configuration name="oneEditAway" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jindian.oneEditAway" />
+      <option name="MAIN_CLASS_NAME" value="jindian1.oneEditAway" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jindian.*" />
+          <option name="PATTERN" value="jindian1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,12 +214,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="strToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhiOffer7.strToInt" />
+    <configuration name="rotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jindian2.rotate" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzhiOffer7.*" />
+          <option name="PATTERN" value="jindian2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="setZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jindian2.setZeroes" />
+      <module name="jianzhiofferh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jindian2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,22 +335,22 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.constructArr" />
+      <item itemvalue="Application.oneEditAway" />
+      <item itemvalue="Application.compressString" />
       <item itemvalue="Maven.webconsole [mvn,install...]" />
       <item itemvalue="Maven.mybatis-gen" />
       <item itemvalue="Spring Boot.WebConsoleApplication (3)" />
-      <item itemvalue="Application.constructArr (1)" />
-      <item itemvalue="Application.strToInt" />
-      <item itemvalue="Application.oneEditAway" />
-      <item itemvalue="Application.compressString" />
+      <item itemvalue="Application.rotate" />
+      <item itemvalue="Application.setZeroes" />
+      <item itemvalue="Application.isFlipedString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.isFlipedString" />
+        <item itemvalue="Application.setZeroes" />
+        <item itemvalue="Application.rotate" />
         <item itemvalue="Application.compressString" />
         <item itemvalue="Application.oneEditAway" />
-        <item itemvalue="Application.strToInt" />
-        <item itemvalue="Application.constructArr (1)" />
-        <item itemvalue="Application.constructArr" />
       </list>
     </recent_temporary>
   </component>
@@ -569,7 +575,8 @@
       <workItem from="1590027846102" duration="11153000" />
       <workItem from="1590213776200" duration="401000" />
       <workItem from="1590229390632" duration="6839000" />
-      <workItem from="1590644028617" duration="12087000" />
+      <workItem from="1590644028617" duration="13312000" />
+      <workItem from="1590716630756" duration="6183000" />
     </task>
     <task id="LOCAL-00001" summary="测试idea提交git">
       <created>1590214128326</created>
@@ -662,46 +669,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="270" y="517" key="#xdebugger.evaluate" timestamp="1590667751078">
+    <state x="270" y="517" key="#xdebugger.evaluate" timestamp="1590719138159">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="270" y="517" key="#xdebugger.evaluate/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590667751078" />
+    <state x="270" y="517" key="#xdebugger.evaluate/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590719138159" />
     <state x="702" y="327" key="FileChooserDialogImpl" timestamp="1590213899727">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="702" y="327" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590213899727" />
-    <state width="2005" height="275" key="GridCell.Tab.0.bottom" timestamp="1590667824562">
+    <state width="2005" height="275" key="GridCell.Tab.0.bottom" timestamp="1590719125137">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="275" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590667824562" />
-    <state width="2005" height="275" key="GridCell.Tab.0.center" timestamp="1590667824562">
+    <state width="2005" height="275" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590719125137" />
+    <state width="2005" height="275" key="GridCell.Tab.0.center" timestamp="1590719125137">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="275" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590667824562" />
-    <state width="2005" height="275" key="GridCell.Tab.0.left" timestamp="1590667824562">
+    <state width="2005" height="275" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590719125137" />
+    <state width="2005" height="275" key="GridCell.Tab.0.left" timestamp="1590719125137">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="275" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590667824562" />
-    <state width="2005" height="275" key="GridCell.Tab.0.right" timestamp="1590667824562">
+    <state width="2005" height="275" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590719125137" />
+    <state width="2005" height="275" key="GridCell.Tab.0.right" timestamp="1590719125137">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="275" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590667824562" />
-    <state width="2005" height="275" key="GridCell.Tab.1.bottom" timestamp="1590667824844">
+    <state width="2005" height="275" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590719125137" />
+    <state width="2005" height="275" key="GridCell.Tab.1.bottom" timestamp="1590719125266">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="275" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590667824844" />
-    <state width="2005" height="275" key="GridCell.Tab.1.center" timestamp="1590667824844">
+    <state width="2005" height="275" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590719125266" />
+    <state width="2005" height="275" key="GridCell.Tab.1.center" timestamp="1590719125266">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="275" key="GridCell.Tab.1.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590667824844" />
-    <state width="2005" height="275" key="GridCell.Tab.1.left" timestamp="1590667824844">
+    <state width="2005" height="275" key="GridCell.Tab.1.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590719125266" />
+    <state width="2005" height="275" key="GridCell.Tab.1.left" timestamp="1590719125266">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="275" key="GridCell.Tab.1.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590667824844" />
-    <state width="2005" height="275" key="GridCell.Tab.1.right" timestamp="1590667824844">
+    <state width="2005" height="275" key="GridCell.Tab.1.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590719125266" />
+    <state width="2005" height="275" key="GridCell.Tab.1.right" timestamp="1590719125266">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="275" key="GridCell.Tab.1.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590667824844" />
+    <state width="2005" height="275" key="GridCell.Tab.1.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590719125266" />
     <state x="423" y="217" key="SettingsEditor" timestamp="1590214030160">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>

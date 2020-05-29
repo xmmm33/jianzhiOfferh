@@ -1,4 +1,4 @@
-package jindian;
+package jindian1;
 
 public class oneEditAway {
 

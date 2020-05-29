@@ -1,4 +1,4 @@
-package jindian;
+package jindian1;
 
 import java.util.Arrays;
 
