@@ -9,7 +9,7 @@ public class pathWithObstacles {
 
     private List<List<Integer>> res = new ArrayList<>();
 
-    // 走矩阵
+    // 走矩阵 jjj
     public List<List<Integer>> pathWithObstacles(int[][] obstacleGrid) {
         int r = obstacleGrid.length;
         int c = obstacleGrid[0].length;

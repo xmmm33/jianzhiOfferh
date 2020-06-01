@@ -29,7 +29,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66f9eab9-85ba-487f-b063-e9cb01d5efa0" name="Default Changelist" comment="测试idea提交git">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jindian4/pathWithObstacles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jindian4/pathWithObstacles.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -573,7 +573,7 @@
       <workItem from="1590716630756" duration="14806000" />
       <workItem from="1590743556119" duration="488000" />
       <workItem from="1590821217485" duration="4618000" />
-      <workItem from="1590980178311" duration="13882000" />
+      <workItem from="1590980178311" duration="14248000" />
     </task>
     <task id="LOCAL-00001" summary="测试idea提交git">
       <created>1590214128326</created>
