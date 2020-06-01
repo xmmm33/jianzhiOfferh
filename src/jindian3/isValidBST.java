@@ -57,7 +57,7 @@ public class isValidBST {
             }
         }
         pre = root;
-        if (isValidBST(root.right)) {
+        if (!isValidBST(root.right)) {
             return false;
         }
         return true;
