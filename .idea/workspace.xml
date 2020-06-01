@@ -29,7 +29,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66f9eab9-85ba-487f-b063-e9cb01d5efa0" name="Default Changelist" comment="测试idea提交git">
-      <change beforePath="$PROJECT_DIR$/src/jindian4/pathWithObstacles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jindian4/pathWithObstacles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +168,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.waysToStep">
+  <component name="RunManager" selected="Application.subsets">
     <configuration name="convertInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jindian4.convertInteger" />
       <module name="jianzhiofferh" />
@@ -208,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isFlipedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jindian2.isFlipedString" />
+    <configuration name="subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jindian4.subsets" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jindian2.*" />
+          <option name="PATTERN" value="jindian4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,22 +329,22 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.isFlipedString" />
-      <item itemvalue="Maven.webconsole [mvn,install...]" />
-      <item itemvalue="Maven.mybatis-gen" />
-      <item itemvalue="Spring Boot.WebConsoleApplication (3)" />
       <item itemvalue="Application.findClosedNumbers" />
       <item itemvalue="Application.convertInteger" />
       <item itemvalue="Application.exchangeBits" />
       <item itemvalue="Application.waysToStep" />
+      <item itemvalue="Application.subsets" />
+      <item itemvalue="Maven.webconsole [mvn,install...]" />
+      <item itemvalue="Maven.mybatis-gen" />
+      <item itemvalue="Spring Boot.WebConsoleApplication (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.subsets" />
         <item itemvalue="Application.waysToStep" />
         <item itemvalue="Application.exchangeBits" />
         <item itemvalue="Application.convertInteger" />
         <item itemvalue="Application.findClosedNumbers" />
-        <item itemvalue="Application.isFlipedString" />
       </list>
     </recent_temporary>
   </component>
@@ -573,7 +573,11 @@
       <workItem from="1590716630756" duration="14806000" />
       <workItem from="1590743556119" duration="488000" />
       <workItem from="1590821217485" duration="4618000" />
-      <workItem from="1590980178311" duration="14748000" />
+      <workItem from="1590980178311" duration="15387000" />
+      <workItem from="1591007150748" duration="525000" />
+      <workItem from="1591011620889" duration="420000" />
+      <workItem from="1591015377912" duration="2501000" />
+      <workItem from="1591017910054" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="测试idea提交git">
       <created>1590214128326</created>
@@ -666,50 +670,62 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="830" y="262" key="#com.intellij.ide.util.MemberChooser" timestamp="1590998491707">
+    <state x="830" y="262" key="#com.intellij.ide.util.MemberChooser" timestamp="1591011644935">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="830" y="262" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590998491707" />
+    <state x="830" y="262" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591011644935" />
     <state x="270" y="517" key="#xdebugger.evaluate" timestamp="1591002377314">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="270" y="517" key="#xdebugger.evaluate/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591002377314" />
+    <state width="401" height="466" key="DebuggerActiveHint" timestamp="1591017180004">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="401" height="466" key="DebuggerActiveHint/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591017180004" />
     <state x="702" y="327" key="FileChooserDialogImpl" timestamp="1590213899727">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="702" y="327" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590213899727" />
-    <state width="2005" height="275" key="GridCell.Tab.0.bottom" timestamp="1591004019583">
+    <state width="2005" height="275" key="GridCell.Tab.0.bottom" timestamp="1591017220276">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="275" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591004019583" />
-    <state width="2005" height="275" key="GridCell.Tab.0.center" timestamp="1591004019583">
+    <state width="2005" height="275" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
+    <state width="2005" height="275" key="GridCell.Tab.0.bottom/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591017220276" />
+    <state width="2005" height="275" key="GridCell.Tab.0.center" timestamp="1591017220275">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="275" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591004019583" />
-    <state width="2005" height="275" key="GridCell.Tab.0.left" timestamp="1591004019583">
+    <state width="2005" height="275" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
+    <state width="2005" height="275" key="GridCell.Tab.0.center/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591017220275" />
+    <state width="2005" height="275" key="GridCell.Tab.0.left" timestamp="1591017220275">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="275" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591004019583" />
-    <state width="2005" height="275" key="GridCell.Tab.0.right" timestamp="1591004019583">
+    <state width="2005" height="275" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
+    <state width="2005" height="275" key="GridCell.Tab.0.left/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591017220275" />
+    <state width="2005" height="275" key="GridCell.Tab.0.right" timestamp="1591017220275">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="275" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591004019583" />
-    <state width="2005" height="275" key="GridCell.Tab.1.bottom" timestamp="1591004019809">
+    <state width="2005" height="275" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
+    <state width="2005" height="275" key="GridCell.Tab.0.right/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591017220275" />
+    <state width="2005" height="275" key="GridCell.Tab.1.bottom" timestamp="1591017220449">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="275" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591004019809" />
-    <state width="2005" height="275" key="GridCell.Tab.1.center" timestamp="1591004019809">
+    <state width="2005" height="275" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
+    <state width="2005" height="275" key="GridCell.Tab.1.bottom/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591017220449" />
+    <state width="2005" height="275" key="GridCell.Tab.1.center" timestamp="1591017220448">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="275" key="GridCell.Tab.1.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591004019809" />
-    <state width="2005" height="275" key="GridCell.Tab.1.left" timestamp="1591004019809">
+    <state width="2005" height="275" key="GridCell.Tab.1.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
+    <state width="2005" height="275" key="GridCell.Tab.1.center/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591017220448" />
+    <state width="2005" height="275" key="GridCell.Tab.1.left" timestamp="1591017220448">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="275" key="GridCell.Tab.1.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591004019809" />
-    <state width="2005" height="275" key="GridCell.Tab.1.right" timestamp="1591004019809">
+    <state width="2005" height="275" key="GridCell.Tab.1.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
+    <state width="2005" height="275" key="GridCell.Tab.1.left/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591017220448" />
+    <state width="2005" height="275" key="GridCell.Tab.1.right" timestamp="1591017220449">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="275" key="GridCell.Tab.1.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591004019809" />
+    <state width="2005" height="275" key="GridCell.Tab.1.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
+    <state width="2005" height="275" key="GridCell.Tab.1.right/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591017220449" />
     <state x="423" y="217" key="SettingsEditor" timestamp="1590214030160">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -722,10 +738,11 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="726" y="312" key="refactoring.ChangeSignatureDialog/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591005338668" />
-    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1590983373206">
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1591017465833">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590983373206" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591017465833" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
