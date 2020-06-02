@@ -29,7 +29,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66f9eab9-85ba-487f-b063-e9cb01d5efa0" name="Default Changelist" comment="测试idea提交git">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode4/coinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode4/coinChange.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +40,6 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -113,11 +101,6 @@
         <option name="userSettingsFile" value="D:\Maven\settings-test.xml" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProjectId" id="1c587v6yONErGtyfJ7W9TemDtOa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -168,13 +151,26 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.multiply">
-    <configuration name="exchangeBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jindian4.exchangeBits" />
+  <component name="RunManager" selected="Application.waysToChange">
+    <configuration name="coinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode4.coinChange" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jindian4.*" />
+          <option name="PATTERN" value="LeetCode4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hanota" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jindian5.hanota" />
+      <module name="jianzhiofferh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jindian5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quickMi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jindian4.quickMi" />
+    <configuration name="permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jindian5.permutation" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jindian4.*" />
+          <option name="PATTERN" value="jindian5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,25 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jindian4.subsets" />
+    <configuration name="waysToChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jindian5.waysToChange" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jindian4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="waysToStep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jindian4.waysToStep" />
-      <module name="jianzhiofferh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jindian4.*" />
+          <option name="PATTERN" value="jindian5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,22 +312,22 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.exchangeBits" />
-      <item itemvalue="Application.waysToStep" />
-      <item itemvalue="Application.subsets" />
+      <item itemvalue="Application.multiply" />
       <item itemvalue="Maven.webconsole [mvn,install...]" />
       <item itemvalue="Maven.mybatis-gen" />
       <item itemvalue="Spring Boot.WebConsoleApplication (3)" />
-      <item itemvalue="Application.multiply" />
-      <item itemvalue="Application.quickMi" />
+      <item itemvalue="Application.hanota" />
+      <item itemvalue="Application.permutation" />
+      <item itemvalue="Application.coinChange" />
+      <item itemvalue="Application.waysToChange" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.waysToChange" />
+        <item itemvalue="Application.coinChange" />
+        <item itemvalue="Application.permutation" />
+        <item itemvalue="Application.hanota" />
         <item itemvalue="Application.multiply" />
-        <item itemvalue="Application.quickMi" />
-        <item itemvalue="Application.subsets" />
-        <item itemvalue="Application.waysToStep" />
-        <item itemvalue="Application.exchangeBits" />
       </list>
     </recent_temporary>
   </component>
@@ -577,7 +560,8 @@
       <workItem from="1591007150748" duration="525000" />
       <workItem from="1591011620889" duration="420000" />
       <workItem from="1591015377912" duration="2501000" />
-      <workItem from="1591017910054" duration="2524000" />
+      <workItem from="1591017910054" duration="2781000" />
+      <workItem from="1591081462492" duration="8687000" />
     </task>
     <task id="LOCAL-00001" summary="测试idea提交git">
       <created>1590214128326</created>
@@ -670,63 +654,77 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="651" y="235" key="#Inspections" timestamp="1591085004307">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="651" y="235" key="#Inspections/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591085004307" />
     <state x="830" y="262" key="#com.intellij.ide.util.MemberChooser" timestamp="1591011644935">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="830" y="262" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591011644935" />
-    <state x="1362" y="345" key="#xdebugger.evaluate" timestamp="1591020041403">
+    <state x="1372" y="385" key="#xdebugger.evaluate" timestamp="1591086882124">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="270" y="517" key="#xdebugger.evaluate/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591002377314" />
-    <state x="1362" y="345" key="#xdebugger.evaluate/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591020041403" />
-    <state width="401" height="466" key="DebuggerActiveHint" timestamp="1591017180004">
+    <state x="1372" y="385" key="#xdebugger.evaluate/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591086882124" />
+    <state x="1372" y="385" key="#xdebugger.evaluate/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591021448463" />
+    <state width="401" height="466" key="DebuggerActiveHint" timestamp="1591082552352">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state width="401" height="466" key="DebuggerActiveHint/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591082552352" />
     <state width="401" height="466" key="DebuggerActiveHint/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591017180004" />
     <state x="702" y="327" key="FileChooserDialogImpl" timestamp="1590213899727">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="702" y="327" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590213899727" />
-    <state width="2005" height="275" key="GridCell.Tab.0.bottom" timestamp="1591020699859">
+    <state width="2005" height="275" key="GridCell.Tab.0.bottom" timestamp="1591090971628">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="275" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
-    <state width="2005" height="275" key="GridCell.Tab.0.bottom/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591020699859" />
-    <state width="2005" height="275" key="GridCell.Tab.0.center" timestamp="1591020699859">
+    <state width="2005" height="275" key="GridCell.Tab.0.bottom/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591090971628" />
+    <state width="2005" height="275" key="GridCell.Tab.0.bottom/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591021504997" />
+    <state width="2005" height="275" key="GridCell.Tab.0.center" timestamp="1591090971628">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="275" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
-    <state width="2005" height="275" key="GridCell.Tab.0.center/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591020699859" />
-    <state width="2005" height="275" key="GridCell.Tab.0.left" timestamp="1591020699859">
+    <state width="2005" height="275" key="GridCell.Tab.0.center/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591090971628" />
+    <state width="2005" height="275" key="GridCell.Tab.0.center/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591021504996" />
+    <state width="2005" height="275" key="GridCell.Tab.0.left" timestamp="1591090971628">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="275" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
-    <state width="2005" height="275" key="GridCell.Tab.0.left/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591020699859" />
-    <state width="2005" height="275" key="GridCell.Tab.0.right" timestamp="1591020699859">
+    <state width="2005" height="275" key="GridCell.Tab.0.left/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591090971628" />
+    <state width="2005" height="275" key="GridCell.Tab.0.left/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591021504996" />
+    <state width="2005" height="275" key="GridCell.Tab.0.right" timestamp="1591090971628">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="275" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
-    <state width="2005" height="275" key="GridCell.Tab.0.right/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591020699859" />
-    <state width="2005" height="275" key="GridCell.Tab.1.bottom" timestamp="1591020700032">
+    <state width="2005" height="275" key="GridCell.Tab.0.right/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591090971628" />
+    <state width="2005" height="275" key="GridCell.Tab.0.right/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591021504997" />
+    <state width="2005" height="275" key="GridCell.Tab.1.bottom" timestamp="1591090971822">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="275" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
-    <state width="2005" height="275" key="GridCell.Tab.1.bottom/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591020700032" />
-    <state width="2005" height="275" key="GridCell.Tab.1.center" timestamp="1591020700032">
+    <state width="2005" height="275" key="GridCell.Tab.1.bottom/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591090971822" />
+    <state width="2005" height="275" key="GridCell.Tab.1.bottom/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591021504997" />
+    <state width="2005" height="275" key="GridCell.Tab.1.center" timestamp="1591090971822">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="275" key="GridCell.Tab.1.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
-    <state width="2005" height="275" key="GridCell.Tab.1.center/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591020700032" />
-    <state width="2005" height="275" key="GridCell.Tab.1.left" timestamp="1591020700031">
+    <state width="2005" height="275" key="GridCell.Tab.1.center/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591090971822" />
+    <state width="2005" height="275" key="GridCell.Tab.1.center/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591021504997" />
+    <state width="2005" height="275" key="GridCell.Tab.1.left" timestamp="1591090971822">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="275" key="GridCell.Tab.1.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
-    <state width="2005" height="275" key="GridCell.Tab.1.left/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591020700031" />
-    <state width="2005" height="275" key="GridCell.Tab.1.right" timestamp="1591020700032">
+    <state width="2005" height="275" key="GridCell.Tab.1.left/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591090971822" />
+    <state width="2005" height="275" key="GridCell.Tab.1.left/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591021504997" />
+    <state width="2005" height="275" key="GridCell.Tab.1.right" timestamp="1591090971822">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="275" key="GridCell.Tab.1.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
-    <state width="2005" height="275" key="GridCell.Tab.1.right/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591020700032" />
+    <state width="2005" height="275" key="GridCell.Tab.1.right/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591090971822" />
+    <state width="2005" height="275" key="GridCell.Tab.1.right/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591021504997" />
     <state x="423" y="217" key="SettingsEditor" timestamp="1590214030160">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -735,14 +733,16 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590229981960" />
-    <state x="726" y="312" key="refactoring.ChangeSignatureDialog" timestamp="1591005338668">
+    <state x="726" y="312" key="refactoring.ChangeSignatureDialog" timestamp="1591084966532">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="726" y="312" key="refactoring.ChangeSignatureDialog/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591005338668" />
-    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1591017465833">
+    <state x="726" y="312" key="refactoring.ChangeSignatureDialog/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591084966532" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1591086247542">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590983373206" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591086247542" />
     <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591017465833" />
   </component>
   <component name="XDebuggerManager">
@@ -812,6 +812,16 @@
           <url>file://$PROJECT_DIR$/src/jindian4/quickMi.java</url>
           <line>12</line>
           <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode4/coinChange.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jindian5/waysToChange.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="84" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
