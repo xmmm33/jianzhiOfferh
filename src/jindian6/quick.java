@@ -1,11 +1,8 @@
 package jindian6;
 
+import org.junit.Test;
+
 public class quick {
-
-
-    public static void main(String[] args) {
-        quicksort(new int[]{1, 5, 6, 3, 1, 8, 4});
-    }
 
     public static void quicksort(int[] nums) {
         if (nums == null || nums.length < 1) {
@@ -35,5 +32,10 @@ public class quick {
         nums[l] = base;
         quicks(nums, low, l - 1);
         quicks(nums, l + 1, high);
+    }
+
+    @Test
+    public void test123(){
+        quicksort(new int[]{1, 5, 3, 4, 8, 4, 6, 8});
     }
 }

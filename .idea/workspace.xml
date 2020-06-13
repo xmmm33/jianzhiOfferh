@@ -30,7 +30,8 @@
   <component name="ChangeListManager">
     <list default="true" id="66f9eab9-85ba-487f-b063-e9cb01d5efa0" name="Default Changelist" comment="测试idea提交git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jindian6/merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jindian6/merge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jianzhiofferh.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jianzhiofferh.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jindian6/quick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jindian6/quick.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +111,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -129,7 +134,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.postfix.templates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -150,26 +155,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.merge">
+  <component name="RunManager" selected="JUnit.quick.test123">
     <configuration name="coinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode4.coinChange" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="hanota" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jindian5.hanota" />
-      <module name="jianzhiofferh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jindian5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jindian5.permutation" />
+    <configuration name="quick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jindian6.quick" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jindian5.*" />
+          <option name="PATTERN" value="jindian6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,6 +204,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quick.test123" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jianzhiofferh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jindian6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jindian6" />
+      <option name="MAIN_CLASS_NAME" value="jindian6.quick" />
+      <option name="METHOD_NAME" value="test123" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -311,22 +319,22 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.hanota" />
-      <item itemvalue="Application.permutation" />
       <item itemvalue="Application.coinChange" />
       <item itemvalue="Application.waysToChange" />
+      <item itemvalue="Application.merge" />
+      <item itemvalue="Application.quick" />
       <item itemvalue="Maven.webconsole [mvn,install...]" />
       <item itemvalue="Maven.mybatis-gen" />
       <item itemvalue="Spring Boot.WebConsoleApplication (3)" />
-      <item itemvalue="Application.merge" />
+      <item itemvalue="JUnit.quick.test123" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.quick.test123" />
+        <item itemvalue="Application.quick" />
         <item itemvalue="Application.merge" />
         <item itemvalue="Application.waysToChange" />
         <item itemvalue="Application.coinChange" />
-        <item itemvalue="Application.permutation" />
-        <item itemvalue="Application.hanota" />
       </list>
     </recent_temporary>
   </component>
@@ -563,7 +571,9 @@
       <workItem from="1591081462492" duration="8687000" />
       <workItem from="1591675810347" duration="1321000" />
       <workItem from="1591688803181" duration="415000" />
-      <workItem from="1591794288003" duration="4436000" />
+      <workItem from="1591794288003" duration="4677000" />
+      <workItem from="1591800240965" duration="1323000" />
+      <workItem from="1592018482152" duration="914000" />
     </task>
     <task id="LOCAL-00001" summary="测试idea提交git">
       <created>1590214128326</created>
@@ -586,7 +596,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591797573132</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="归并排序复习">
+      <created>1591799105544</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591799105544</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -661,13 +678,18 @@
     <MESSAGE value="测试idea提交git" />
     <MESSAGE value="test" />
     <MESSAGE value="合并两个有序的数组" />
-    <option name="LAST_COMMIT_MESSAGE" value="合并两个有序的数组" />
+    <MESSAGE value="归并排序复习" />
+    <option name="LAST_COMMIT_MESSAGE" value="归并排序复习" />
   </component>
   <component name="WindowStateProjectService">
     <state x="651" y="235" key="#Inspections" timestamp="1591085004307">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="651" y="235" key="#Inspections/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591085004307" />
+    <state x="181" y="124" key="#Live_Templates" timestamp="1592018738065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="181" y="124" key="#Live_Templates/0.0.1920.1040@0.0.1920.1040" timestamp="1592018738065" />
     <state x="830" y="262" key="#com.intellij.ide.util.MemberChooser" timestamp="1591011644935">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -688,71 +710,76 @@
     </state>
     <state x="658" y="306" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591676846935" />
     <state x="702" y="327" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590213899727" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1591798830891">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1591801565706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591798830891" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591801565706" />
     <state width="2005" height="275" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
     <state width="2005" height="275" key="GridCell.Tab.0.bottom/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591090971628" />
     <state width="2005" height="275" key="GridCell.Tab.0.bottom/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591021504997" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1591798830891">
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1591801565705">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591798830891" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591801565705" />
     <state width="2005" height="275" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
     <state width="2005" height="275" key="GridCell.Tab.0.center/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591090971628" />
     <state width="2005" height="275" key="GridCell.Tab.0.center/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591021504996" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1591798830891">
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1591801565705">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591798830891" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591801565705" />
     <state width="2005" height="275" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
     <state width="2005" height="275" key="GridCell.Tab.0.left/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591090971628" />
     <state width="2005" height="275" key="GridCell.Tab.0.left/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591021504996" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1591798830891">
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1591801565706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591798830891" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591801565705" />
     <state width="2005" height="275" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
     <state width="2005" height="275" key="GridCell.Tab.0.right/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591090971628" />
     <state width="2005" height="275" key="GridCell.Tab.0.right/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591021504997" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1591798831111">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1591801565706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591798831111" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591801565706" />
     <state width="2005" height="275" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
     <state width="2005" height="275" key="GridCell.Tab.1.bottom/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591090971822" />
     <state width="2005" height="275" key="GridCell.Tab.1.bottom/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591021504997" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1591798831111">
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1591801565706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591798831111" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591801565706" />
     <state width="2005" height="275" key="GridCell.Tab.1.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
     <state width="2005" height="275" key="GridCell.Tab.1.center/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591090971822" />
     <state width="2005" height="275" key="GridCell.Tab.1.center/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591021504997" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1591798831111">
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1591801565706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591798831111" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591801565706" />
     <state width="2005" height="275" key="GridCell.Tab.1.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
     <state width="2005" height="275" key="GridCell.Tab.1.left/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591090971822" />
     <state width="2005" height="275" key="GridCell.Tab.1.left/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591021504997" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1591798831111">
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1591801565706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591798831111" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591801565706" />
     <state width="2005" height="275" key="GridCell.Tab.1.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591007095049" />
     <state width="2005" height="275" key="GridCell.Tab.1.right/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591090971822" />
     <state width="2005" height="275" key="GridCell.Tab.1.right/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591021504997" />
-    <state x="922" y="176" key="SettingsEditor" timestamp="1591675914124">
+    <state x="405" y="131" key="SettingsEditor" timestamp="1592018561971">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="922" y="176" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591675914124" />
+    <state x="405" y="131" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592018561971" />
     <state x="423" y="217" key="SettingsEditor/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590214030160" />
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1590229981960">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="578" y="270" key="Vcs.Push.Dialog.v2" timestamp="1591799148979">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="578" y="270" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591799148979" />
     <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590229981960" />
+    <state x="658" y="411" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1592018767886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="658" y="411" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1592018767886" />
     <state x="334" y="130" key="new project wizard" timestamp="1591676451097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -762,10 +789,14 @@
     </state>
     <state x="726" y="312" key="refactoring.ChangeSignatureDialog/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591005338668" />
     <state x="726" y="312" key="refactoring.ChangeSignatureDialog/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591084966532" />
-    <state x="644" y="227" width="672" height="635" key="search.everywhere.popup" timestamp="1591798621778">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1591800588546">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="644" y="227" width="672" height="635" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591798621778" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591800588546" />
+    <state x="644" y="227" width="672" height="635" key="search.everywhere.popup" timestamp="1591800260179">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="644" y="227" width="672" height="635" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591800260179" />
     <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1590983373206" />
     <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/2560.0.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591086247542" />
     <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1591017465833" />
@@ -847,11 +878,6 @@
           <url>file://$PROJECT_DIR$/src/jindian5/waysToChange.java</url>
           <line>31</line>
           <option name="timeStamp" value="84" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/jindian6/merge.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="100" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
