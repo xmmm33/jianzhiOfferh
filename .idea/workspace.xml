@@ -28,7 +28,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66f9eab9-85ba-487f-b063-e9cb01d5efa0" name="Default Changelist" comment="测试idea提交git" />
+    <list default="true" id="66f9eab9-85ba-487f-b063-e9cb01d5efa0" name="Default Changelist" comment="测试idea提交git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,7 +153,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.search.test">
+  <component name="RunManager" selected="Application.swapNumbers">
     <configuration name="groupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jindian7.groupAnagrams" />
       <module name="jianzhiofferh" />
@@ -165,8 +167,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jindian6.merge" />
+    <configuration name="quick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jindian6.quick" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
@@ -178,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jindian6.quick" />
+    <configuration name="swapNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jindian7.swapNumbers" />
       <module name="jianzhiofferh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jindian6.*" />
+          <option name="PATTERN" value="jindian7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -318,7 +320,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.merge" />
       <item itemvalue="Application.quick" />
       <item itemvalue="Application.groupAnagrams" />
       <item itemvalue="JUnit.quick.test123" />
@@ -326,14 +327,15 @@
       <item itemvalue="Maven.webconsole [mvn,install...]" />
       <item itemvalue="Maven.mybatis-gen" />
       <item itemvalue="Spring Boot.WebConsoleApplication (3)" />
+      <item itemvalue="Application.swapNumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.swapNumbers" />
         <item itemvalue="JUnit.search.test" />
         <item itemvalue="Application.groupAnagrams" />
         <item itemvalue="JUnit.quick.test123" />
         <item itemvalue="Application.quick" />
-        <item itemvalue="Application.merge" />
       </list>
     </recent_temporary>
   </component>
@@ -574,7 +576,7 @@
       <workItem from="1591800240965" duration="1323000" />
       <workItem from="1592018482152" duration="1636000" />
       <workItem from="1592403120601" duration="2680000" />
-      <workItem from="1592491213348" duration="791000" />
+      <workItem from="1592491213348" duration="1893000" />
     </task>
     <task id="LOCAL-00001" summary="测试idea提交git">
       <created>1590214128326</created>
