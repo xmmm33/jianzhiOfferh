@@ -1,7 +1,5 @@
 package jindian7;
 
-import org.junit.Test;
-
 public class search {
 
     // 搜索旋转数组
@@ -63,8 +61,4 @@ public class search {
         }
     }
 
-    @Test
-    public void test(){
-        search2(new int[]{1,-2}, -2);
-    }
 }
